@@ -7,7 +7,10 @@ from reverseFeature import reverseFeat
 BaseDir = "/Users/Azhar/Desktop/MultiWUW/"
 InfeatDir = "feat/"
 outFeatDir = "reverseFeat/"
-fileIds = BaseDir + "etc/MultiWUW_trainAux.fileids"
+
+CoreOrAux = "Core"  # Change this option: In vocabulary : Core   OOV: Aux
+trainOrTest = "test" # 
+fileIds = BaseDir + "etc/MultiWUW_"+trainOrTest + CoreOrAux+".fileids" 
 with open(fileIds,'r') as listIn:
     line = listIn.readline()
     while(line):

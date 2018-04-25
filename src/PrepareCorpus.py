@@ -7,6 +7,13 @@ The core words are:
 To help distinguish unrecognized words, there are also ten auxiliary words, which most speakers only said once. These include:
  "Bed", "Bird", "Cat", "Dog", "Happy", "House", "Marvin", "Sheila", "Tree", and "Wow". 
 
+
+NOTE: The following error was in decoding phase: 
+ERROR: "batch.c", line 213: Empty mfcc file
+ERROR: "batch.c", line 422: Failed to read MFCC from the file '/Users/Azhar/Desktop/MultiWUW/feat/no/1cb788bc_nohash_1.mfc'
+
+Hence, the file 'no/1cb788bc_nohash_1' will be removed from the Core list fileIDs
+
 @author: Azhar Abdulaziz
 @note: The data are from 
 "Warden P. Speech Commands: A public dataset for single-word speech recognition, 2017. Available from http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz".

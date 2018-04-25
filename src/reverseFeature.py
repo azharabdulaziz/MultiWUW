@@ -27,7 +27,7 @@ def reverseFeat(featFile,outFile):
     FeatDimension = 13*4
      
     with open(featFile,'rb') as fp:
-        header = fp.read(2) # 2 bytes for the header (int32), which is 13xN where N is no of frames for audio
+        header = fp.read(4) # 2 bytes for the header (int32), which is 13xN where N is no of frames for audio
         Header = header
         frame = fp.read(FeatDimension)
         while frame != "":
