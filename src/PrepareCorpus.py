@@ -12,7 +12,8 @@ NOTE: The following error was in decoding phase:
 ERROR: "batch.c", line 213: Empty mfcc file
 ERROR: "batch.c", line 422: Failed to read MFCC from the file '/Users/Azhar/Desktop/MultiWUW/feat/no/1cb788bc_nohash_1.mfc'
 
-Hence, the file 'no/1cb788bc_nohash_1' will be removed from the Core list fileIDs
+Hence, the file 'no/1cb788bc_nohash_1' will be removed from the MultiWUW_trainCore.fileIDs and remove the line 
+'<s> NO </s> (no/1cb788bc_nohash_1)' from the file 'MultiWUW_trainCore.transcription'. 
 
 @author: Azhar Abdulaziz
 @note: The data are from 

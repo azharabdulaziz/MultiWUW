@@ -1,0 +1,1711 @@
+Hyp,Name,Score2,Score1
+DOWN ,bed/0c40e715_nohash_0, -1645, -1663
+LEFT ,bed/0ea0e2f4_nohash_0, -1443, -1759
+DOWN ,bed/0ea0e2f4_nohash_1, -1905, -1137
+LEFT ,bed/105a0eea_nohash_0, -1730, -2317
+DOWN ,bed/1528225c_nohash_0, -1987, -1774
+LEFT ,bed/1528225c_nohash_1, -2016, -1998
+LEFT ,bed/1528225c_nohash_2, -1655, -1862
+LEFT ,bed/1528225c_nohash_3, -1697, -1918
+DOWN ,bed/1b4c9b89_nohash_0, -2748, -2183
+DOWN ,bed/1cb788bc_nohash_0, -1971, -1843
+DOWN ,bed/1cb788bc_nohash_1, -2145, -1275
+DOWN ,bed/20d3f11f_nohash_0, -1546, -1596
+ON ,bed/210f3aa9_nohash_0, -2339, -1138
+LEFT ,bed/2796ac50_nohash_0, -2094, -2275
+LEFT ,bed/283d7a53_nohash_0, -1748, -1731
+GO ,bed/28497c5b_nohash_0, -1496, -1420
+LEFT ,bed/2c6d3924_nohash_0, -2773, -2799
+LEFT ,bed/2d82a556_nohash_0, -1619, -1603
+DOWN ,bed/2d82a556_nohash_1, -1424, -1610
+DOWN ,bed/370844f7_nohash_0, -2331, -2085
+STOP LEFT ,bed/37dca74f_nohash_0, -3540, -3717
+YES ,bed/3df9a3d4_nohash_0, -3143, -2281
+UP ,bed/3df9a3d4_nohash_1, -3942, -1963
+DOWN ,bed/3f170018_nohash_0, -1776, -1763
+NO ,bed/3f2b358d_nohash_0, -2414, -2609
+LEFT ,bed/3ff840aa_nohash_0, -2341, -1227
+LEFT ,bed/3ff840aa_nohash_1, -1080, -1350
+ON ,bed/422d3197_nohash_0, -1618, -1070
+DOWN UP ,bed/4290ca61_nohash_0, -2681, -2603
+LEFT GO ,bed/43fc47a7_nohash_0, -2245, -2685
+LEFT ,bed/44260689_nohash_0, -2353, -2093
+GO ,bed/4620dc14_nohash_0, -1575, -1725
+LEFT ,bed/47d01978_nohash_0, -2376, -2766
+LEFT ,bed/4845bb10_nohash_0, -1397, -2334
+LEFT ,bed/4c4d2526_nohash_0, -2439, -2093
+DOWN UP UP ,bed/4c7c95de_nohash_0, -3664, -3149
+LEFT ,bed/4c7c95de_nohash_1, -2431, -3691
+DOWN ,bed/4c841771_nohash_0, -1876, -2365
+DOWN ,bed/4f8ef132_nohash_0, -1148, -2472
+DOWN ,bed/50033893_nohash_0, -2447, -2462
+DOWN ,bed/50033893_nohash_1, -2131, -2033
+DOWN ,bed/50033893_nohash_2, -2695, -2480
+DOWN ,bed/553f1a79_nohash_0, -1905, -1582
+LEFT ,bed/563aa4e6_nohash_0, -2419, -2847
+GO ,bed/5744b6a7_nohash_0, -1166, -1681
+RIGHT ,bed/5828dfa2_nohash_0, -1293, -1885
+ON ,bed/5828dfa2_nohash_1, -1217, -1304
+LEFT ,bed/587f3271_nohash_0, -1430, -2030
+LEFT ,bed/587f3271_nohash_1, -2211, -1878
+LEFT ,bed/587f3271_nohash_2, -2371, -1939
+LEFT ,bed/5b1db3ee_nohash_0, -2078, -1898
+YES ,bed/5b1db3ee_nohash_1, -2474, -852
+YES ,bed/5b1db3ee_nohash_2, -2244, -1440
+YES ,bed/5b1db3ee_nohash_3, -1940, -1243
+LEFT ,bed/5b1db3ee_nohash_4, -2019, -1936
+GO ON ,bed/5c8af87a_nohash_0, -2616, -3355
+LEFT ,bed/5e3dde6b_nohash_0, -2282, -1741
+LEFT ,bed/5ff3f9a1_nohash_0, -1679, -2445
+LEFT ,bed/6021f08b_nohash_0, -2186, -1749
+LEFT ,bed/6021f08b_nohash_1, -1805, -1920
+DOWN ,bed/6205088b_nohash_0, -1567, -1440
+DOWN ,bed/6205088b_nohash_1, -2243, -1366
+DOWN ,bed/6205088b_nohash_2, -2472, -1655
+DOWN ,bed/6205088b_nohash_3, -2567, -1515
+LEFT ,bed/62ff07ef_nohash_0, -3756, -3392
+LEFT ,bed/62ff07ef_nohash_1, -2141, -2313
+LEFT ,bed/653a48f5_nohash_0, -1824, -2143
+LEFT ,bed/67961766_nohash_0, -1983, -2002
+RIGHT ,bed/67961766_nohash_1, -2773, -3035
+LEFT ,bed/68dd409e_nohash_0, -2608, -2227
+LEFT ,bed/692a88e6_nohash_0, -2428, -2763
+YES ,bed/6b889021_nohash_0, -2908, -2466
+DOWN ,bed/6b889021_nohash_1, -2816, -2355
+DOWN ,bed/6b889021_nohash_2, -3112, -2577
+LEFT ,bed/6e916de8_nohash_0, -1495, -1536
+YES ,bed/6f2f57c1_nohash_0, -2020, -2224
+YES ,bed/6f2f57c1_nohash_1, -1481, -1561
+DOWN ,bed/7192fddc_nohash_0, -1553, -1751
+LEFT ,bed/7257420c_nohash_0, -2719, -3121
+UP ,bed/7257420c_nohash_1, -2506, -2646
+DOWN ,bed/782c1305_nohash_0, -2286, -2651
+DOWN ,bed/7add4c5f_nohash_0, -2098, -2237
+LEFT ,bed/7dc95912_nohash_0, -1659, -1890
+DOWN ,bed/7dc95912_nohash_1, -1568, -1952
+DOWN ,bed/7e1054e7_nohash_0, -2061, -1216
+GO UP ,bed/80c45ed6_nohash_0, -2566, -2299
+LEFT ,bed/80c45ed6_nohash_1, -1598, -1370
+YES UP ,bed/81dc4a94_nohash_0, -2294, -1962
+YES ,bed/82b99576_nohash_0, -2268, -2505
+DOWN ,bed/84d1e469_nohash_0, -2388, -1953
+DOWN ,bed/84d1e469_nohash_1, -2626, -2192
+DOWN ,bed/863880b7_nohash_0, -1453, -1349
+YES ,bed/863880b7_nohash_1, -1666, -1397
+LEFT ,bed/881583a6_nohash_0, -2100, -2078
+DOWN ,bed/8c7f81df_nohash_0, -2149, -2078
+YES ,bed/8ec6dab6_nohash_0, -1983, -1979
+YES ,bed/8ec6dab6_nohash_1, -1797, -1708
+DOWN ,bed/91223b83_nohash_0, -1890, -1679
+ON ,bed/94de6a6a_nohash_0, -3507, -3734
+LEFT ,bed/964e8cfd_nohash_0, -1518, -2779
+LEFT ,bed/97f4c236_nohash_0, -2799, -2876
+DOWN ,bed/9a356ab9_nohash_0, -2201, -1731
+LEFT ,bed/9a69672b_nohash_0, -2096, -3164
+RIGHT ,bed/9a7c1f83_nohash_0, -1311, -1401
+RIGHT ,bed/9a7c1f83_nohash_1, -1311, -1401
+LEFT ,bed/9b3ea809_nohash_0, -2037, -2029
+DOWN ,bed/9d4bab4f_nohash_0, -2362, -2501
+LEFT ,bed/9dc1889e_nohash_0, -1973, -1544
+DOWN ,bed/9e2ce5e3_nohash_0, -1634, -1223
+DOWN ,bed/a2473d62_nohash_0, -1265, -1452
+RIGHT ,bed/a2473d62_nohash_1, -1384, -1630
+DOWN ,bed/a4e8a997_nohash_0, -2115, -2357
+LEFT ,bed/a4e8a997_nohash_1, -1488, -2726
+DOWN ,bed/a60a09cf_nohash_0, -2625, -2151
+ON ,bed/a8e25ebb_nohash_0, -1115, -1377
+LEFT ,bed/aa233654_nohash_0, -2539, -2926
+DOWN ,bed/aa48c94a_nohash_0, -1428, -1492
+RIGHT ,bed/aa48c94a_nohash_1, -1644, -1632
+NO ,bed/ad6a46f1_nohash_0, -1574, -1540
+DOWN ,bed/ad6a46f1_nohash_1, -1437, -1842
+DOWN ,bed/adebe223_nohash_0, -1605, -2098
+DOWN ,bed/adebe223_nohash_1, -1691, -1531
+ON ,bed/af7a8296_nohash_0, -1496, -1638
+LEFT ,bed/b1f8326d_nohash_0, -2621, -1731
+LEFT ,bed/b1f8326d_nohash_1, -2281, -2100
+LEFT ,bed/b2e2773a_nohash_0, -1892, -2872
+LEFT ,bed/b2e2773a_nohash_1, -2388, -2744
+DOWN ,bed/b49caed3_nohash_0, -2691, -1709
+DOWN ,bed/b83c1acf_nohash_0, -2174, -3095
+RIGHT ,bed/b97c9f77_nohash_0, -2123, -2915
+DOWN ,bed/bb31b82b_nohash_0, -1991, -2341
+DOWN ,bed/bed06fac_nohash_0, -2370, -1776
+DOWN ,bed/bed06fac_nohash_1, -1814, -1728
+DOWN ,bed/bed06fac_nohash_2, -2012, -2006
+DOWN ,bed/c0e0f834_nohash_0, -2108, -2214
+LEFT ,bed/c0e0f834_nohash_1, -2761, -2031
+LEFT ,bed/c0e0f834_nohash_2, -2535, -2436
+DOWN ,bed/c22d3f18_nohash_0, -1642, -1886
+LEFT ,bed/c518d1b1_nohash_0, -1816, -2228
+DOWN ,bed/c7124b73_nohash_0, -1745, -1113
+LEFT ,bed/c7124b73_nohash_1, -2244, -2167
+LEFT ,bed/c7124b73_nohash_2, -1811, -2222
+DOWN ,bed/c781f251_nohash_0, -1597, -1852
+NO ON ,bed/cc592808_nohash_0, -2444, -3131
+GO ,bed/cc592808_nohash_1, -1629, -1955
+DOWN ,bed/cc592808_nohash_2, -1833, -2097
+DOWN ,bed/cc592808_nohash_3, -1927, -2856
+DOWN ,bed/cd85758f_nohash_0, -3366, -2318
+RIGHT ,bed/cfde27ba_nohash_0, -3209, -2447
+LEFT ,bed/cfde27ba_nohash_1, -2700, -3054
+LEFT ,bed/d0faf7e4_nohash_0, -2912, -1981
+LEFT ,bed/d103dd6e_nohash_0, -1730, -1340
+LEFT ,bed/d103dd6e_nohash_1, -2031, -1709
+DOWN ,bed/d1a4fb3f_nohash_0, -2636, -2406
+LEFT ,bed/d2dd5785_nohash_0, -2179, -2650
+RIGHT ,bed/d5ca80c6_nohash_0, -1777, -2162
+ON ,bed/d7467392_nohash_0, -1687, -2051
+LEFT ,bed/d9e9f554_nohash_0, -1838, -2413
+YES ,bed/e1469561_nohash_0, -2982, -1898
+DOWN ,bed/e41a903b_nohash_0, -2052, -2225
+NO ,bed/e5e54cee_nohash_0, -1372, -1442
+DOWN ,bed/e71b4ce6_nohash_0, -2296, -2133
+UP ,bed/e9901cf0_nohash_0, -2578, -2327
+DOWN ,bed/ea356919_nohash_0, -1668, -1709
+DOWN ,bed/ef2a3cfb_nohash_0, -2317, -2062
+RIGHT ,bed/f0ae7203_nohash_0, -2022, -2261
+ON ,bed/f264e0df_nohash_0, -1940, -1549
+LEFT ,bed/f292725f_nohash_0, -2079, -2260
+DOWN ,bed/f297e878_nohash_0, -2112, -1954
+DOWN ,bed/f6af2457_nohash_0, -1802, -1813
+LEFT ,bed/fa446c16_nohash_0, -2688, -2752
+DOWN RIGHT ,bed/fa446c16_nohash_1, -3476, -3357
+LEFT ,bed/fa446c16_nohash_2, -2754, -2845
+LEFT ,bed/fce96bac_nohash_0, -2502, -2354
+LEFT ,bed/fe1916ba_nohash_0, -2062, -1734
+DOWN UP ,bed/ffb86d3c_nohash_0, -3531, -2785
+ON ,bird/022cd682_nohash_0, -2103, -1365
+ON ,bird/096456f9_nohash_0, -2166, -2536
+RIGHT ,bird/0c40e715_nohash_0, -2126, -1711
+ON ,bird/0f250098_nohash_0, -2533, -1919
+ON ,bird/0fa1e7a9_nohash_0, -2520, -2710
+DOWN ,bird/105a0eea_nohash_0, -2180, -1673
+RIGHT ,bird/1528225c_nohash_0, -1735, -1987
+ON ,bird/1538beb7_nohash_0, -1573, -1306
+RIGHT ,bird/1b4c9b89_nohash_0, -3336, -3149
+RIGHT ,bird/1f3bece8_nohash_0, -1850, -1276
+DOWN ,bird/1f653d27_nohash_0, -2601, -1448
+ON ,bird/20d3f11f_nohash_0, -1673, -1304
+RIGHT ,bird/210f3aa9_nohash_0, -1684, -2263
+DOWN ,bird/24ad3ebe_nohash_0, -2331, -1206
+LEFT ,bird/26b28ea7_nohash_0, -1500, -2026
+ON ,bird/27c30960_nohash_0, -1896, -2013
+RIGHT ,bird/283d7a53_nohash_0, -1750, -1633
+RIGHT ,bird/283d7a53_nohash_1, -1841, -1932
+RIGHT ,bird/28497c5b_nohash_0, -2078, -1411
+RIGHT ,bird/28497c5b_nohash_1, -2249, -2301
+RIGHT ,bird/28497c5b_nohash_2, -1845, -2666
+RIGHT ,bird/2c6d3924_nohash_0, -2145, -2540
+ON RIGHT ,bird/2c6d3924_nohash_1, -2709, -3143
+ON ,bird/2fa39636_nohash_0, -1382, -1336
+DOWN ,bird/370844f7_nohash_0, -2228, -1848
+UP ,bird/37dca74f_nohash_0, -2333, -2407
+ON ,bird/37fc5d97_nohash_0, -2725, -2644
+RIGHT ,bird/3df9a3d4_nohash_0, -970, -2160
+GO ,bird/3f2b358d_nohash_0, -2883, -2821
+DOWN ,bird/3ff840aa_nohash_0, -2292, -1562
+ON ,bird/3ff840aa_nohash_1, -1925, -1603
+OFF ,bird/412c675c_nohash_0, -1793, -1842
+RIGHT ,bird/412c675c_nohash_1, -1877, -2001
+RIGHT ,bird/422d3197_nohash_0, -1535, -1636
+LEFT ,bird/4290ca61_nohash_0, -2909, -2543
+DOWN DOWN ,bird/4290ca61_nohash_1, -2385, -3539
+DOWN ,bird/4290ca61_nohash_2, -2546, -2771
+RIGHT ,bird/42beb5eb_nohash_0, -2499, -3193
+LEFT ,bird/44260689_nohash_0, -1963, -2221
+NO ,bird/44715c1c_nohash_0, -2447, -1365
+LEFT ,bird/4845bb10_nohash_0, -1805, -1848
+ON ,bird/48a8a69d_nohash_0, -1652, -2013
+ON ,bird/48a8a69d_nohash_1, -1559, -1909
+ON ,bird/48a8a69d_nohash_2, -1841, -2038
+RIGHT ,bird/4a0e2c16_nohash_0, -461, -1138
+RIGHT ,bird/4c841771_nohash_0, -2474, -2088
+RIGHT ,bird/4c841771_nohash_1, -2855, -2524
+ON ,bird/553f1a79_nohash_0, -2103, -2163
+RIGHT ,bird/563aa4e6_nohash_0, -2868, -3051
+ON ,bird/5744b6a7_nohash_0, -2067, -2548
+ON ,bird/5744b6a7_nohash_1, -1525, -1439
+ON ,bird/5828dfa2_nohash_0, -1662, -1628
+ON ,bird/5828dfa2_nohash_1, -2486, -1987
+RIGHT ,bird/5b1db3ee_nohash_0, -1881, -1482
+GO ,bird/5c8af87a_nohash_0, -2776, -2851
+GO ,bird/5e3dde6b_nohash_0, -2391, -2895
+RIGHT ,bird/5eb5fc74_nohash_0, -1740, -1279
+RIGHT ,bird/5eb5fc74_nohash_1, -1696, -1405
+RIGHT ,bird/6021f08b_nohash_0, -1897, -1501
+ON ,bird/6205088b_nohash_0, -1705, -1837
+RIGHT ,bird/62ff07ef_nohash_0, -2591, -2741
+ON ,bird/653a48f5_nohash_0, -3631, -2197
+ON ,bird/653a48f5_nohash_1, -1951, -1313
+ON ,bird/653a48f5_nohash_2, -2353, -2309
+UP ,bird/6736bc64_nohash_0, -2134, -2112
+RIGHT ,bird/692a88e6_nohash_0, -2704, -2590
+DOWN ,bird/6b889021_nohash_0, -2107, -1377
+DOWN ,bird/6b889021_nohash_1, -2502, -1145
+ON ,bird/6e916de8_nohash_0, -1237, -1532
+LEFT ,bird/6f689791_nohash_0, -1859, -2228
+RIGHT ,bird/6f689791_nohash_1, -2359, -2504
+ON ,bird/782c1305_nohash_0, -1928, -2626
+LEFT ,bird/798f702a_nohash_0, -2701, -2142
+LEFT ,bird/798f702a_nohash_1, -1751, -1655
+DOWN ON ,bird/7add4c5f_nohash_0, -3354, -3547
+RIGHT ,bird/7bae88ed_nohash_0, -1870, -1536
+RIGHT ,bird/7bae88ed_nohash_1, -1857, -1525
+ON ,bird/7dc95912_nohash_0, -1934, -1735
+DOWN ,bird/7e1054e7_nohash_0, -2052, -1325
+ON ,bird/7e1054e7_nohash_1, -3794, -2567
+ON ,bird/7e1054e7_nohash_2, -2057, -3076
+LEFT ,bird/80c45ed6_nohash_0, -2307, -1817
+RIGHT ,bird/82b99576_nohash_0, -1981, -2286
+LEFT ,bird/83957201_nohash_0, -1373, -2193
+DOWN ,bird/8494fba8_nohash_0, -2080, -1979
+ON ,bird/85834399_nohash_0, -2246, -3473
+GO ,bird/8625475c_nohash_0, -2103, -1722
+DOWN ,bird/8625475c_nohash_1, -2091, -2164
+RIGHT ,bird/881583a6_nohash_0, -1961, -1595
+RIGHT ,bird/881583a6_nohash_1, -1885, -1598
+RIGHT ,bird/8a325749_nohash_0, -2261, -1656
+RIGHT ,bird/8a325749_nohash_1, -2212, -2178
+LEFT ,bird/8c7f81df_nohash_0, -3236, -2620
+ON ,bird/8ec6dab6_nohash_0, -1285, -1557
+ON ,bird/8fe52b97_nohash_0, -1252, -1198
+NO ,bird/94de6a6a_nohash_0, -1390, -3470
+LEFT ,bird/964e8cfd_nohash_0, -2056, -2995
+ON ,bird/97f4c236_nohash_0, -1974, -1803
+DOWN RIGHT ,bird/9a356ab9_nohash_0, -2089, -2370
+LEFT ,bird/9a69672b_nohash_0, -1763, -2145
+RIGHT ,bird/9b3ea809_nohash_0, -1407, -2403
+ON ,bird/9d171fee_nohash_0, -3099, -2014
+RIGHT ,bird/9dc1889e_nohash_0, -2025, -1203
+DOWN ,bird/9e2ce5e3_nohash_0, -1771, -1616
+UP ,bird/9e2ce5e3_nohash_1, -1562, -1727
+RIGHT ON ,bird/9e2ce5e3_nohash_2, -2423, -2130
+ON ,bird/a4e8a997_nohash_0, -2404, -1863
+NO ,bird/a60a09cf_nohash_0, -1693, -2513
+LEFT ,bird/a60a09cf_nohash_1, -1886, -1617
+DOWN ,bird/a8e25ebb_nohash_0, -1182, -1823
+RIGHT ,bird/aa233654_nohash_0, -2310, -2933
+DOWN ,bird/aa48c94a_nohash_0, -2687, -1661
+DOWN ,bird/aa48c94a_nohash_1, -2260, -2036
+DOWN ,bird/ad6a46f1_nohash_0, -1181, -1230
+RIGHT ,bird/adebe223_nohash_0, -1613, -1896
+ON ,bird/af130f12_nohash_0, -2112, -1688
+RIGHT ,bird/af7a8296_nohash_0, -1735, -1605
+ON ,bird/b11a05d2_nohash_0, -2201, -1589
+RIGHT ,bird/b1f8326d_nohash_0, -2395, -1609
+GO ,bird/b49caed3_nohash_0, -2675, -2472
+RIGHT ,bird/b83c1acf_nohash_0, -1429, -1145
+ON ,bird/b97c9f77_nohash_0, -2225, -1689
+RIGHT ,bird/bb31b82b_nohash_0, -1780, -2014
+LEFT ,bird/bb31b82b_nohash_1, -1459, -3376
+LEFT ,bird/bb31b82b_nohash_2, -1103, -2569
+DOWN ,bird/bed06fac_nohash_0, -2974, -2605
+ON ,bird/c22d3f18_nohash_0, -1856, -1200
+ON ,bird/c7124b73_nohash_0, -1865, -2228
+ON ,bird/c7124b73_nohash_1, -2011, -2098
+LEFT ,bird/ca48dc76_nohash_0, -2691, -2531
+DOWN ,bird/ca48dc76_nohash_1, -1305, -1907
+LEFT ,bird/caedb73a_nohash_0, -2124, -1817
+ON ,bird/caf9fceb_nohash_0, -2906, -2574
+NO ON ,bird/cd85758f_nohash_0, -1657, -2036
+UP ,bird/cfde27ba_nohash_0, -2084, -2930
+RIGHT ,bird/d0faf7e4_nohash_0, -2206, -2627
+ ,bird/d103dd6e_nohash_0, -2080, -1751
+RIGHT ,bird/d1a4fb3f_nohash_0, -2134, -2683
+ON ,bird/d9e9f554_nohash_0, -2031, -2047
+ON ,bird/d9e9f554_nohash_1, -2174, -1220
+ON ,bird/e1469561_nohash_0, -2965, -2507
+ON ,bird/e41a903b_nohash_0, -1673, -1886
+UP RIGHT NO ,bird/e5e54cee_nohash_0, -4554, -4791
+DOWN ,bird/e71b4ce6_nohash_0, -2342, -2156
+OFF NO ,bird/e9901cf0_nohash_0, -3502, -4041
+RIGHT ,bird/ea356919_nohash_0, -2038, -1369
+LEFT ,bird/f0ae7203_nohash_0, -2111, -2445
+RIGHT ,bird/f292725f_nohash_0, -1639, -2112
+RIGHT ,bird/f292725f_nohash_1, -1627, -1679
+UP ,bird/f297e878_nohash_0, -2486, -1353
+ON ,bird/f428ca69_nohash_0, -2180, -2027
+DOWN ,bird/f5496439_nohash_0, -1978, -1401
+ON ,bird/f6af2457_nohash_0, -2158, -1720
+DOWN ,bird/fa446c16_nohash_0, -3052, -2020
+DOWN ,bird/fa446c16_nohash_1, -2435, -2451
+NO ,bird/ffa76c4a_nohash_0, -1799, -2382
+LEFT ,bird/ffb86d3c_nohash_0, -1946, -2764
+DOWN ,bird/ffb86d3c_nohash_1, -2509, -2750
+OFF ,cat/0487ba9b_nohash_0, -2843, -3478
+LEFT ,cat/096456f9_nohash_0, -2592, -2936
+DOWN ,cat/0d53e045_nohash_0, -1593, -1684
+GO ,cat/0ea0e2f4_nohash_0, -1398, -1844
+DOWN ,cat/0f250098_nohash_0, -2198, -1784
+DOWN ,cat/0f250098_nohash_1, -1770, -1804
+LEFT ,cat/0fa1e7a9_nohash_0, -2652, -2758
+YES ,cat/105a0eea_nohash_0, -2491, -3453
+LEFT ,cat/105a0eea_nohash_1, -3486, -2864
+LEFT ,cat/105a0eea_nohash_2, -3209, -3126
+RIGHT ,cat/135c6841_nohash_0, -2266, -2906
+YES ,cat/1b4c9b89_nohash_0, -1649, -1965
+RIGHT ,cat/1f3bece8_nohash_0, -2013, -2844
+LEFT ,cat/1fe4c891_nohash_0, -2477, -2375
+YES ,cat/20d3f11f_nohash_0, -1997, -1802
+LEFT ,cat/20d3f11f_nohash_1, -1961, -2243
+LEFT ,cat/24ad3ebe_nohash_0, -2733, -1940
+LEFT ,cat/24ad3ebe_nohash_1, -2957, -2264
+RIGHT ,cat/24ad3ebe_nohash_2, -3092, -3348
+STOP ,cat/26b28ea7_nohash_0, -2352, -2554
+OFF ,cat/26b28ea7_nohash_1, -1476, -2724
+UP ,cat/2796ac50_nohash_0, -1272, -1987
+UP ,cat/2796ac50_nohash_1, -1549, -1925
+LEFT ,cat/2aa787cf_nohash_0, -2651, -2391
+LEFT ,cat/2aa787cf_nohash_1, -2595, -2444
+LEFT ,cat/2aa787cf_nohash_2, -2268, -2056
+LEFT ,cat/2c6d3924_nohash_0, -3652, -2683
+STOP ,cat/2d82a556_nohash_0, -1496, -1629
+LEFT ,cat/370844f7_nohash_0, -2283, -2192
+LEFT ,cat/37dca74f_nohash_0, -3291, -2867
+DOWN ,cat/3cbd76a3_nohash_0, -1582, -1737
+RIGHT ,cat/3df9a3d4_nohash_0, -3478, -2943
+LEFT ,cat/3efef882_nohash_0, -2878, -3200
+OFF ,cat/3efef882_nohash_1, -1758, -2827
+DOWN ,cat/412c675c_nohash_0, -1517, -1598
+LEFT ,cat/43fc47a7_nohash_0, -2080, -1917
+OFF ,cat/44715c1c_nohash_0, -2818, -3621
+UP ,cat/44715c1c_nohash_1, -2194, -2000
+YES ,cat/4620dc14_nohash_0, -1629, -1548
+LEFT ,cat/4620dc14_nohash_1, -1990, -1903
+ ,cat/4a0e2c16_nohash_0, -3298, -751
+RIGHT ,cat/4a0e2c16_nohash_1, -2147483648, -2386
+UP ,cat/4c4d2526_nohash_0, -1802, -2559
+LEFT ,cat/4c4d2526_nohash_1, -1568, -3856
+UP LEFT ,cat/4c7c95de_nohash_0, -3094, -2427
+UP ,cat/4c7c95de_nohash_1, -2743, -2287
+LEFT ,cat/50033893_nohash_0, -2801, -2197
+LEFT ,cat/50033893_nohash_1, -2323, -2628
+LEFT ,cat/563aa4e6_nohash_0, -3051, -1812
+LEFT ,cat/5744b6a7_nohash_0, -1733, -2385
+YES ,cat/5744b6a7_nohash_1, -2016, -1889
+UP ,cat/5828dfa2_nohash_0, -1911, -2134
+STOP ,cat/5c8af87a_nohash_0, -2141, -1110
+UP ,cat/5e3dde6b_nohash_0, -1241, -2478
+LEFT ,cat/5ff3f9a1_nohash_0, -1775, -2606
+LEFT ,cat/5ff3f9a1_nohash_1, -2103, -2245
+LEFT ,cat/5ff3f9a1_nohash_2, -2339, -1930
+LEFT ,cat/6021f08b_nohash_0, -1964, -1965
+YES ,cat/6021f08b_nohash_1, -1976, -1940
+LEFT ,cat/6021f08b_nohash_2, -2464, -914
+ ,cat/6205088b_nohash_0, -1391, -2613
+UP ,cat/6736bc64_nohash_0, -1559, -2156
+LEFT ,cat/68dd409e_nohash_0, -2227, -2611
+DOWN ,cat/692a88e6_nohash_0, -1970, -2693
+STOP ,cat/6b889021_nohash_0, -2859, -2398
+LEFT ,cat/6f2f57c1_nohash_0, -2248, -2792
+RIGHT ,cat/6f689791_nohash_0, -1582, -1279
+DOWN ,cat/7192fddc_nohash_0, -2374, -2351
+LEFT ,cat/782c1305_nohash_0, -2570, -2511
+LEFT ,cat/782c1305_nohash_1, -1601, -1668
+DOWN ,cat/7bae88ed_nohash_0, -2121, -2210
+LEFT ,cat/7dc95912_nohash_0, -1871, -2862
+YES ,cat/7e1054e7_nohash_0, -2953, -3315
+LEFT ,cat/8056e897_nohash_0, -3576, -3752
+LEFT ,cat/8056e897_nohash_1, -2949, -2392
+YES ,cat/81dc4a94_nohash_0, -3379, -2071
+LEFT ,cat/81dc4a94_nohash_1, -1765, -1504
+DOWN ,cat/82b99576_nohash_0, -2157, -2622
+LEFT ,cat/83957201_nohash_0, -2175, -2210
+LEFT ,cat/83957201_nohash_1, -1974, -2327
+RIGHT ,cat/83957201_nohash_2, -2191, -2289
+UP ,cat/840c366d_nohash_0, -2976, -1970
+LEFT ,cat/840c366d_nohash_1, -2701, -2514
+LEFT ,cat/840c366d_nohash_2, -1521, -1812
+YES ,cat/8494fba8_nohash_0, -1887, -1816
+ON ,cat/8625475c_nohash_0, -1721, -2121
+LEFT ,cat/863880b7_nohash_0, -1470, -1545
+OFF ,cat/863880b7_nohash_1, -2721, -3388
+LEFT ,cat/8a325749_nohash_0, -2222, -2249
+YES ,cat/8ec6dab6_nohash_0, -1880, -1404
+DOWN ,cat/8fe52b97_nohash_0, -2070, -1805
+RIGHT ,cat/90b94017_nohash_0, -2942, -2224
+LEFT ,cat/91223b83_nohash_0, -2366, -2332
+LEFT ,cat/91223b83_nohash_1, -2532, -2734
+ON ,cat/94de6a6a_nohash_0, -2642, -3303
+LEFT ,cat/95ba4996_nohash_0, -2253, -3141
+UP ,cat/95ba4996_nohash_1, -2124, -2239
+DOWN ,cat/964e8cfd_nohash_0, -2766, -2921
+ON ,cat/97f4c236_nohash_0, -2426, -2634
+UP STOP ,cat/9a69672b_nohash_0, -2783, -2418
+LEFT ,cat/9b3ea809_nohash_0, -1995, -2511
+LEFT ,cat/9d171fee_nohash_0, -2009, -2252
+LEFT ,cat/9d171fee_nohash_1, -2759, -2052
+YES ,cat/9dc1889e_nohash_0, -1276, -1682
+STOP ,cat/9e2ce5e3_nohash_0, -2192, -2425
+UP ,cat/a1533da4_nohash_0, -1735, -2073
+LEFT ,cat/a2473d62_nohash_0, -2373, -1853
+LEFT ,cat/a2473d62_nohash_1, -2407, -2390
+STOP ,cat/a4e8a997_nohash_0, -3123, -3162
+STOP ,cat/a4e8a997_nohash_1, -2003, -1604
+YES ,cat/a8e25ebb_nohash_0, -2716, -2505
+LEFT ,cat/aa233654_nohash_0, -3644, -3340
+LEFT ,cat/aa233654_nohash_1, -1155, -1152
+RIGHT ,cat/aa48c94a_nohash_0, -2845, -2466
+LEFT ,cat/aef8dcf5_nohash_0, -1128, -1782
+OFF ,cat/af130f12_nohash_0, -1502, -2468
+STOP ,cat/af130f12_nohash_1, -2303, -2200
+LEFT ,cat/af7a8296_nohash_0, -2301, -1574
+LEFT ,cat/af7a8296_nohash_1, -3484, -3965
+LEFT ,cat/b11a05d2_nohash_0, -2785, -2271
+UP ,cat/b1f8326d_nohash_0, -2719, -2059
+LEFT ,cat/b2e2773a_nohash_0, -3337, -3342
+LEFT ,cat/b49caed3_nohash_0, -1561, -1601
+YES ,cat/b737ee80_nohash_0, -3072, -2880
+ON LEFT ,cat/b83c1acf_nohash_0, -2861, -2442
+DOWN OFF ,cat/b97c9f77_nohash_0, -3031, -3007
+LEFT ,cat/bb31b82b_nohash_0, -2103, -3000
+LEFT ,cat/c22d3f18_nohash_0, -1882, -2177
+YES ,cat/c518d1b1_nohash_0, -2246, -2818
+STOP ,cat/ca48dc76_nohash_0, -1567, -2221
+LEFT ,cat/caedb73a_nohash_0, -2894, -2428
+LEFT ,cat/caf9fceb_nohash_0, -2682, -2083
+LEFT ,cat/caf9fceb_nohash_1, -2786, -2913
+LEFT ,cat/cc592808_nohash_0, -2998, -2852
+LEFT ,cat/cc592808_nohash_1, -2660, -2741
+YES ,cat/cd85758f_nohash_0, -3176, -2887
+LEFT ,cat/cfde27ba_nohash_0, -2452, -2768
+DOWN UP ,cat/cfde27ba_nohash_1, -1612, -2593
+YES ,cat/d056d4d8_nohash_0, -2188, -2173
+LEFT ,cat/d0faf7e4_nohash_0, -2103, -2477
+ ,cat/d103dd6e_nohash_0, -2307, -2645
+LEFT ,cat/d5ca80c6_nohash_0, -1830, -2152
+LEFT ,cat/d7467392_nohash_0, -2144, -1761
+LEFT ,cat/d7467392_nohash_1, -2365, -2705
+STOP ,cat/d9e9f554_nohash_0, -2748, -2487
+LEFT ,cat/daf230ac_nohash_0, -1804, -2021
+LEFT ,cat/daf230ac_nohash_1, -2852, -2420
+LEFT ,cat/e1469561_nohash_0, -1787, -2019
+STOP ,cat/e41a903b_nohash_0, -3871, -4327
+NO UP ,cat/e5e54cee_nohash_0, -4150, -3448
+YES ,cat/e5e54cee_nohash_1, -3054, -1679
+YES ,cat/e71b4ce6_nohash_0, -3002, -2494
+YES ,cat/e71b4ce6_nohash_1, -1921, -1975
+DOWN ,cat/e9901cf0_nohash_0, -1758, -2070
+STOP ,cat/ea356919_nohash_0, -1751, -2343
+DOWN ,cat/ef2a3cfb_nohash_0, -2941, -2287
+RIGHT ,cat/f0ae7203_nohash_0, -2190, -2568
+LEFT ,cat/f0ae7203_nohash_1, -2347, -1996
+YES ,cat/f264e0df_nohash_0, -2693, -2419
+LEFT ,cat/f292725f_nohash_0, -2404, -2364
+RIGHT ,cat/f6af2457_nohash_0, -3054, -2884
+LEFT ,cat/fa446c16_nohash_0, -2683, -2226
+LEFT ,cat/fce96bac_nohash_0, -1849, -2499
+UP ,cat/fe1916ba_nohash_0, -2685, -1384
+GO ,cat/ffa76c4a_nohash_0, -2647, -2175
+LEFT ,cat/ffb86d3c_nohash_0, -2339, -2056
+STOP ,dog/096456f9_nohash_0, -2351, -1765
+STOP ,dog/096456f9_nohash_1, -1869, -1706
+GO ,dog/096456f9_nohash_2, -1461, -2296
+STOP ,dog/0d53e045_nohash_0, -1572, -1317
+DOWN ,dog/0d53e045_nohash_1, -2744, -2266
+STOP ,dog/0f250098_nohash_0, -1719, -2243
+STOP ,dog/0f250098_nohash_1, -1217, -3258
+DOWN ,dog/0fa1e7a9_nohash_0, -2261, -3100
+ON GO ,dog/105a0eea_nohash_0, -1379, -2544
+STOP ,dog/1b4c9b89_nohash_0, -2099, -1665
+STOP ,dog/1f3bece8_nohash_0, -1576, -1951
+STOP ,dog/1f653d27_nohash_0, -2021, -2364
+STOP ,dog/1fe4c891_nohash_0, -1788, -1638
+ON ,dog/210f3aa9_nohash_0, -2296, -2298
+ON ,dog/210f3aa9_nohash_1, -1922, -2916
+GO ON ,dog/24ad3ebe_nohash_0, -1856, -1910
+DOWN ,dog/26b28ea7_nohash_0, -1692, -3200
+STOP ,dog/26b28ea7_nohash_1, -1479, -1369
+STOP ,dog/26b28ea7_nohash_2, -2209, -3185
+DOWN ON ,dog/2796ac50_nohash_0, -1780, -2286
+OFF UP ,dog/27c30960_nohash_0, -1929, -2629
+OFF UP ,dog/27c30960_nohash_1, -1910, -1716
+STOP ,dog/283d7a53_nohash_0, -1457, -2038
+STOP ,dog/283d7a53_nohash_1, -2551, -2741
+STOP ,dog/28497c5b_nohash_0, -2452, -2474
+ON ,dog/28497c5b_nohash_1, -2526, -2685
+ON ,dog/2c6d3924_nohash_0, -2122, -2393
+ON ,dog/2c6d3924_nohash_1, -2651, -2999
+GO ON ,dog/2c6d3924_nohash_2, -1306, -1275
+STOP ,dog/2d82a556_nohash_0, -1468, -1577
+ON ,dog/2fa39636_nohash_0, -1539, -1801
+GO ,dog/370844f7_nohash_0, -1562, -2856
+NO OFF GO ,dog/370844f7_nohash_1, -3331, -2362
+OFF GO ,dog/37dca74f_nohash_0, -2583, -2945
+DOWN ,dog/37fc5d97_nohash_0, -1322, -1842
+DOWN ,dog/3c165869_nohash_0, -1445, -1726
+NO ,dog/3c165869_nohash_1, -2915, -2209
+STOP ,dog/3df9a3d4_nohash_0, -2970, -2781
+DOWN ,dog/3df9a3d4_nohash_1, -2382, -2275
+ON GO ,dog/3efef882_nohash_0, -423, -454
+GO ,dog/3f2b358d_nohash_0, -2440, -1764
+STOP ,dog/412c675c_nohash_0, -2609, -2634
+STOP ,dog/42beb5eb_nohash_0, -2270, -2339
+STOP ,dog/43fc47a7_nohash_0, -2499, -3040
+STOP ,dog/43fc47a7_nohash_1, -2087, -2214
+STOP GO ,dog/43fc47a7_nohash_2, -2302, -1858
+DOWN ON ,dog/44260689_nohash_0, -2351, -3230
+DOWN ON ,dog/44260689_nohash_1, -2629, -2341
+STOP ,dog/4620dc14_nohash_0, -1297, -2061
+STOP ,dog/4845bb10_nohash_0, -2874, -2153
+STOP ,dog/48a8a69d_nohash_0, -1583, -1553
+STOP ,dog/4c4d2526_nohash_0, -2241, -2911
+STOP ,dog/4c4d2526_nohash_1, -3165, -3556
+RIGHT DOWN ,dog/4c7c95de_nohash_0, -2742, -3310
+DOWN UP ,dog/4c7c95de_nohash_1, -2322, -2696
+DOWN GO ,dog/50033893_nohash_0, -1940, -2059
+DOWN ,dog/553f1a79_nohash_0, -2709, -1962
+DOWN ,dog/553f1a79_nohash_1, -2739, -2697
+NO ,dog/563aa4e6_nohash_0, -1744, -2411
+DOWN ,dog/5744b6a7_nohash_0, -1766, -1498
+DOWN ,dog/5744b6a7_nohash_1, -1599, -1778
+STOP ,dog/5744b6a7_nohash_2, -2234, -2414
+GO ,dog/587f3271_nohash_0, -2153, -2942
+DOWN ,dog/587f3271_nohash_1, -2374, -2120
+STOP ,dog/5c8af87a_nohash_0, -2456, -2130
+DOWN UP ,dog/5e3dde6b_nohash_0, -2051, -2164
+GO OFF ,dog/5ff3f9a1_nohash_0, -1431, -3334
+GO OFF ,dog/5ff3f9a1_nohash_1, -1702, -3116
+GO ,dog/5ff3f9a1_nohash_2, -1772, -1960
+ON ,dog/6021f08b_nohash_0, -2145, -1595
+DOWN ,dog/6205088b_nohash_0, -2086, -2924
+OFF ,dog/6736bc64_nohash_0, -2924, -2382
+STOP ,dog/6736bc64_nohash_1, -2167, -2993
+UP ,dog/68dd409e_nohash_0, -2072, -2939
+DOWN UP ,dog/68dd409e_nohash_1, -1910, -2043
+GO ,dog/692a88e6_nohash_0, -2527, -3115
+ON ,dog/6b889021_nohash_0, -2496, -2349
+ON ,dog/6f2f57c1_nohash_0, -2691, -1757
+DOWN ,dog/6f2f57c1_nohash_1, -2038, -2366
+ON ,dog/7192fddc_nohash_0, -1788, -2392
+DOWN ,dog/7192fddc_nohash_1, -1914, -2621
+LEFT ,dog/798f702a_nohash_0, -2380, -2117
+STOP ,dog/7add4c5f_nohash_0, -1941, -3289
+UP ON ,dog/7add4c5f_nohash_1, -2736, -1633
+DOWN ,dog/7bae88ed_nohash_0, -2197, -2841
+UP ,dog/80c45ed6_nohash_0, -1970, -2316
+ON ,dog/81dc4a94_nohash_0, -2224, -2449
+STOP ,dog/82b99576_nohash_0, -1804, -1494
+GO ,dog/83957201_nohash_0, -2435, -2536
+GO ON ,dog/8494fba8_nohash_0, -2246, -1550
+GO ,dog/85834399_nohash_0, -2007, -2953
+GO OFF ,dog/85834399_nohash_1, -2114, -2406
+GO ,dog/85834399_nohash_2, -1736, -1708
+DOWN ,dog/863880b7_nohash_0, -2267, -1603
+DOWN ,dog/881583a6_nohash_0, -2195, -2167
+DOWN ON ,dog/8a325749_nohash_0, -2043, -2414
+DOWN ,dog/8db999cf_nohash_0, -2725, -1945
+DOWN ,dog/8ec6dab6_nohash_0, -1394, -2538
+DOWN ,dog/90b94017_nohash_0, -1705, -1841
+STOP ,dog/91223b83_nohash_0, -1758, -1949
+STOP ,dog/91223b83_nohash_1, -1471, -1165
+OFF ,dog/94de6a6a_nohash_0, -1052, -3058
+DOWN GO ,dog/964e8cfd_nohash_0, -2134, -1835
+DOWN ,dog/97f4c236_nohash_0, -3671, -2552
+GO ON ,dog/9a356ab9_nohash_0, -2057, -2691
+NO GO ,dog/9a69672b_nohash_0, -2471, -2618
+DOWN ,dog/9d4bab4f_nohash_0, -1289, -2211
+DOWN ,dog/9d4bab4f_nohash_1, -1551, -1443
+DOWN ,dog/9e2ce5e3_nohash_0, -1212, -1770
+DOWN ,dog/9e2ce5e3_nohash_1, -2531, -1569
+DOWN ,dog/9e2ce5e3_nohash_2, -2120, -2923
+OFF ,dog/a591c2ea_nohash_0, -1875, -2540
+OFF ,dog/a591c2ea_nohash_1, -1805, -2941
+STOP ,dog/a591c2ea_nohash_2, -2161, -2991
+GO ,dog/a591c2ea_nohash_3, -1708, -2066
+DOWN ,dog/a60a09cf_nohash_0, -1637, -2306
+NO ON ,dog/a60a09cf_nohash_1, -1673, -1958
+GO ,dog/a8e25ebb_nohash_0, -1877, -1743
+DOWN ,dog/aa48c94a_nohash_0, -1683, -1925
+OFF ,dog/adebe223_nohash_0, -1595, -2543
+ON ,dog/adebe223_nohash_1, -1407, -2167
+ON ,dog/af130f12_nohash_0, -1925, -2232
+OFF ,dog/af130f12_nohash_1, -2539, -1627
+GO ,dog/af405b69_nohash_0, -1333, -2135
+ON ,dog/af8b2f2c_nohash_0, -1863, -1761
+GO ,dog/af8b2f2c_nohash_1, -2206, -1861
+GO ,dog/b11a05d2_nohash_0, -1479, -1818
+GO ,dog/b49caed3_nohash_0, -1194, -1416
+GO ,dog/b737ee80_nohash_0, -1678, -1738
+GO ON ,dog/b737ee80_nohash_1, -1670, -1786
+GO ON ,dog/b737ee80_nohash_2, -973, -3996
+UP ,dog/b83c1acf_nohash_0, -1882, -2113
+DOWN OFF ,dog/b97c9f77_nohash_0, -1604, -1575
+DOWN ,dog/bed06fac_nohash_0, -2395, -1845
+DOWN ,dog/bed06fac_nohash_1, -1859, -2593
+DOWN ,dog/bed06fac_nohash_2, -1421, -1226
+GO ,dog/c22d3f18_nohash_0, -1944, -1815
+GO ,dog/c518d1b1_nohash_0, -2362, -2532
+STOP ,dog/c7124b73_nohash_0, -2947, -2205
+STOP ,dog/c7124b73_nohash_1, -2537, -2343
+STOP ,dog/ca48dc76_nohash_0, -2406, -2798
+STOP ,dog/ca48dc76_nohash_1, -2238, -2147
+STOP ,dog/caedb73a_nohash_0, -2038, -2421
+DOWN ,dog/caedb73a_nohash_1, -1752, -2523
+GO ,dog/caf9fceb_nohash_0, -1925, -3228
+GO OFF ,dog/caf9fceb_nohash_1, -2855, -2357
+STOP ,dog/caf9fceb_nohash_2, -2887, -2931
+DOWN ,dog/cc592808_nohash_0, -2135, -2413
+GO ,dog/cd85758f_nohash_0, -1710, -2230
+NO UP ,dog/d0faf7e4_nohash_0, -2695, -1813
+STOP ,dog/d103dd6e_nohash_0, -1834, -2527
+STOP ,dog/d1a4fb3f_nohash_0, -1477, -2200
+DOWN GO ,dog/d7467392_nohash_0, -1413, -1671
+STOP ,dog/d7467392_nohash_1, -3004, -2844
+STOP ,dog/d91a159e_nohash_0, -2200, -2929
+DOWN ON ,dog/d91a159e_nohash_1, -1910, -2058
+OFF ,dog/d9e9f554_nohash_0, -2217, -2478
+DOWN ,dog/daf230ac_nohash_0, -2092, -2437
+STOP ,dog/dc75148d_nohash_0, -2431, -1446
+DOWN ,dog/e1469561_nohash_0, -1783, -2685
+GO ON ,dog/e41a903b_nohash_0, -2302, -1680
+GO ,dog/e71b4ce6_nohash_0, -2499, -1572
+DOWN ,dog/ef2a3cfb_nohash_0, -2568, -2464
+DOWN ,dog/ef2a3cfb_nohash_1, -1321, -2445
+GO UP ,dog/f0ae7203_nohash_0, -1862, -1993
+DOWN ,dog/f264e0df_nohash_0, -1253, -2119
+GO ,dog/f264e0df_nohash_1, -2462, -1859
+DOWN ,dog/f264e0df_nohash_2, -2066, -2932
+ON ,dog/f297e878_nohash_0, -2591, -2236
+DOWN ,dog/f428ca69_nohash_0, -2474, -2841
+DOWN ,dog/f428ca69_nohash_1, -1572, -2601
+STOP ,dog/f428ca69_nohash_2, -2794, -2351
+DOWN ,dog/f428ca69_nohash_3, -2591, -2481
+DOWN ,dog/f428ca69_nohash_4, -3174, -3040
+DOWN ,dog/f5496439_nohash_0, -3040, -3159
+DOWN ,dog/fce96bac_nohash_0, -2314, -2147
+STOP OFF ,dog/fe1916ba_nohash_0, -2134, -2677
+STOP ,dog/fe1916ba_nohash_1, -1732, -3687
+GO ON ,dog/ffb86d3c_nohash_0, -2199, -2373
+GO ,dog/ffb86d3c_nohash_1, -2646, -1982
+RIGHT ,happy/0c40e715_nohash_0, -3200, -2653
+UP RIGHT ,happy/0ea0e2f4_nohash_0, -2881, -2750
+UP RIGHT ,happy/0f250098_nohash_0, -2942, -3293
+LEFT ,happy/1093c8e7_nohash_0, -2431, -3048
+OFF YES ,happy/135c6841_nohash_0, -2196, -2710
+UP RIGHT ,happy/1528225c_nohash_0, -2870, -2965
+UP ,happy/1528225c_nohash_1, -2285, -2653
+UP NO ,happy/1b4c9b89_nohash_0, -2629, -1992
+RIGHT ,happy/1f3bece8_nohash_0, -2888, -2575
+NO ,happy/1f3bece8_nohash_1, -3328, -2342
+UP RIGHT ,happy/1f653d27_nohash_0, -1837, -3277
+UP RIGHT ,happy/1f653d27_nohash_1, -2631, -2301
+UP RIGHT ,happy/1fe4c891_nohash_0, -2850, -2936
+RIGHT ,happy/1fe4c891_nohash_1, -2566, -2318
+UP ON ,happy/20d3f11f_nohash_0, -2666, -2891
+UP ,happy/20d3f11f_nohash_1, -2584, -2308
+UP RIGHT ,happy/20d3f11f_nohash_2, -2441, -2875
+UP RIGHT ,happy/24ad3ebe_nohash_0, -2473, -2485
+LEFT RIGHT ,happy/26b28ea7_nohash_0, -2662, -2511
+UP RIGHT ,happy/2796ac50_nohash_0, -2170, -2540
+UP RIGHT ,happy/27c30960_nohash_0, -2556, -1225
+OFF ,happy/27c30960_nohash_1, -2401, -2726
+UP RIGHT ,happy/283d7a53_nohash_0, -3269, -2863
+RIGHT ,happy/2aa787cf_nohash_0, -2399, -2770
+UP ,happy/2c6d3924_nohash_0, -2994, -2949
+STOP ,happy/2d82a556_nohash_0, -2044, -3071
+LEFT RIGHT ,happy/370844f7_nohash_0, -2703, -2224
+UP ,happy/37dca74f_nohash_0, -2876, -2364
+UP RIGHT ,happy/37fc5d97_nohash_0, -2509, -2921
+LEFT RIGHT ,happy/37fc5d97_nohash_1, -2293, -2218
+RIGHT ,happy/3c165869_nohash_0, -2545, -2255
+ON ,happy/3c165869_nohash_1, -2141, -1896
+ON ,happy/3c165869_nohash_2, -1710, -2704
+YES ,happy/3df9a3d4_nohash_0, -415, -2667
+LEFT GO ,happy/3efef882_nohash_0, -2781, -2890
+LEFT ,happy/3efef882_nohash_1, -2279, -2920
+ON RIGHT ,happy/3f170018_nohash_0, -2076, -2314
+UP RIGHT ,happy/3ff840aa_nohash_0, -2181, -1970
+UP RIGHT ,happy/3ff840aa_nohash_1, -2315, -2266
+UP RIGHT ,happy/3ff840aa_nohash_2, -2648, -2350
+UP RIGHT ,happy/3ff840aa_nohash_3, -2752, -3133
+LEFT RIGHT ,happy/412c675c_nohash_0, -3448, -3120
+LEFT RIGHT ,happy/412c675c_nohash_1, -2442, -3509
+UP ,happy/4290ca61_nohash_0, -2060, -2746
+UP ,happy/42beb5eb_nohash_0, -2565, -2478
+UP YES ,happy/42beb5eb_nohash_1, -3193, -2842
+RIGHT ,happy/43fc47a7_nohash_0, -2935, -3111
+OFF RIGHT ,happy/44715c1c_nohash_0, -2444, -3050
+UP RIGHT ,happy/44715c1c_nohash_1, -3848, -2591
+UP ,happy/47d01978_nohash_0, -2297, -2784
+UP ,happy/47d01978_nohash_1, -2644, -2691
+UP RIGHT ,happy/4845bb10_nohash_0, -2760, -2256
+UP ,happy/48a8a69d_nohash_0, -2792, -3843
+UP ,happy/4c4d2526_nohash_0, -3721, -4147
+UP UP ,happy/4c4d2526_nohash_1, -2355, -3611
+RIGHT ,happy/4c7c95de_nohash_0, -2673, -2357
+OFF RIGHT ,happy/4c841771_nohash_0, -1640, -3015
+UP ,happy/4f8ef132_nohash_0, -4215, -1789
+UP ,happy/50033893_nohash_0, -4108, -3230
+UP RIGHT ,happy/5525ff66_nohash_0, -2189, -2932
+UP RIGHT ,happy/5525ff66_nohash_1, -1875, -2830
+UP ON ,happy/553f1a79_nohash_0, -2521, -1987
+UP ,happy/553f1a79_nohash_1, -1834, -2687
+UP ,happy/563aa4e6_nohash_0, -2103, -1527
+YES ,happy/5828dfa2_nohash_0, -1910, -1123
+YES ,happy/5828dfa2_nohash_1, -2056, -1250
+DOWN ,happy/5828dfa2_nohash_2, -3261, -1420
+YES ,happy/5828dfa2_nohash_3, -2720, -3675
+RIGHT RIGHT ,happy/587f3271_nohash_0, -2630, -2823
+LEFT RIGHT ,happy/5b1db3ee_nohash_0, -3243, -3044
+OFF RIGHT ,happy/5c8af87a_nohash_0, -1265, -2803
+UP ,happy/5e3dde6b_nohash_0, -2490, -1248
+UP ,happy/5eb5fc74_nohash_0, -2021, -2708
+UP RIGHT ,happy/5eb5fc74_nohash_1, -3360, -1309
+LEFT ,happy/5eb5fc74_nohash_2, -2325, -3347
+STOP NO ,happy/5f814c23_nohash_0, -1768, -2221
+UP ,happy/6021f08b_nohash_0, -2954, -1613
+ON ,happy/6205088b_nohash_0, -2100, -2856
+UP RIGHT ,happy/62ff07ef_nohash_0, -2847, -2344
+UP RIGHT ,happy/653a48f5_nohash_0, -2744, -1308
+LEFT ,happy/692a88e6_nohash_0, -2708, -3653
+UP RIGHT ,happy/6b889021_nohash_0, -1028, -3766
+UP RIGHT ,happy/6b889021_nohash_1, -2416, -1749
+DOWN ,happy/6b889021_nohash_2, -2450, -2649
+NO ,happy/6e916de8_nohash_0, -2348, -3118
+OFF RIGHT ,happy/6f2f57c1_nohash_0, -2598, -2830
+UP ,happy/6f689791_nohash_0, -2996, -2146
+UP RIGHT ,happy/7192fddc_nohash_0, -2844, -3560
+UP RIGHT ,happy/7257420c_nohash_0, -2856, -2494
+UP ,happy/798f702a_nohash_0, -3012, -3366
+UP RIGHT ,happy/7add4c5f_nohash_0, -3382, -1932
+UP ON ,happy/7bae88ed_nohash_0, -3001, -2444
+ON ,happy/7bae88ed_nohash_1, -3235, -3614
+ON YES ,happy/7e1054e7_nohash_0, -1894, -4001
+UP RIGHT ,happy/7e1054e7_nohash_1, -2664, -3634
+RIGHT ,happy/7e1054e7_nohash_2, -2008, -1641
+LEFT ,happy/83957201_nohash_0, -1907, -1758
+UP ,happy/83957201_nohash_1, -2411, -1906
+UP ,happy/840c366d_nohash_0, -2446, -2144
+UP ,happy/840c366d_nohash_1, -2332, -2333
+UP RIGHT ,happy/8494fba8_nohash_0, -2760, -2583
+UP RIGHT ,happy/8494fba8_nohash_1, -2339, -2545
+UP RIGHT ,happy/8494fba8_nohash_2, -2358, -2809
+UP RIGHT ,happy/8625475c_nohash_0, -1935, -2664
+RIGHT ,happy/8a325749_nohash_0, -2494, -2684
+GO ,happy/8a325749_nohash_1, -1439, -2843
+UP ,happy/8c7f81df_nohash_0, -2440, -2541
+UP RIGHT ,happy/8ec6dab6_nohash_0, -2487, -2393
+UP ,happy/8fe52b97_nohash_0, -3446, -2355
+STOP RIGHT ,happy/91223b83_nohash_0, -2926, -2721
+DOWN ,happy/91223b83_nohash_1, -2332, -3822
+UP ,happy/94de6a6a_nohash_0, -2741, -2643
+UP RIGHT ,happy/964e8cfd_nohash_0, -2116, -1269
+UP ,happy/97f4c236_nohash_0, -2116, -2289
+UP YES ,happy/9a69672b_nohash_0, -2476, -2089
+UP ,happy/9a7c1f83_nohash_0, -2790, -2089
+UP ,happy/9a7c1f83_nohash_1, -1914, -2873
+UP RIGHT ,happy/9b3ea809_nohash_0, -2314, -2955
+UP RIGHT ,happy/9b3ea809_nohash_1, -2361, -2086
+STOP ,happy/9d171fee_nohash_0, -2330, -2181
+UP RIGHT ,happy/a1533da4_nohash_0, -1860, -1811
+UP RIGHT ,happy/a1533da4_nohash_1, -1794, -3432
+UP ,happy/a591c2ea_nohash_0, -2409, -1449
+NO ,happy/a8e25ebb_nohash_0, -2515, -2248
+DOWN ,happy/a8e25ebb_nohash_1, -2305, -3174
+YES ,happy/aa233654_nohash_0, -2275, -3219
+LEFT ,happy/aa233654_nohash_1, -2688, -2455
+DOWN ,happy/adebe223_nohash_0, -2483, -2066
+UP ON ,happy/adebe223_nohash_1, -857, -2654
+UP RIGHT ,happy/aef8dcf5_nohash_0, -2837, -2599
+RIGHT ,happy/af130f12_nohash_0, -2474, -2802
+OFF RIGHT ,happy/af405b69_nohash_0, -2314, -1904
+DOWN ,happy/af8b2f2c_nohash_0, -1666, -2303
+DOWN ,happy/af8b2f2c_nohash_1, -3514, -2384
+RIGHT ,happy/b1f8326d_nohash_0, -2235, -2875
+RIGHT ,happy/b1f8326d_nohash_1, -2820, -2530
+UP YES ,happy/b49caed3_nohash_0, -2723, -1835
+LEFT ,happy/b737ee80_nohash_0, -2299, -2780
+UP ,happy/b83c1acf_nohash_0, -2843, -2313
+UP RIGHT ,happy/b97c9f77_nohash_0, -1510, -2882
+YES ON ,happy/bb31b82b_nohash_0, -2577, -2876
+LEFT RIGHT ,happy/bb31b82b_nohash_1, -2398, -2642
+UP ON ,happy/bed06fac_nohash_0, -2583, -3073
+UP RIGHT ,happy/c0e0f834_nohash_0, -2395, -3389
+UP ,happy/c0e0f834_nohash_1, -2506, -2789
+UP ON ,happy/c22d3f18_nohash_0, -2456, -3077
+STOP RIGHT ,happy/c7124b73_nohash_0, -2818, -2383
+UP RIGHT ,happy/c7124b73_nohash_1, -2869, -2462
+UP ,happy/c781f251_nohash_0, -2868, -3485
+STOP RIGHT ,happy/ca48dc76_nohash_0, -2712, -2550
+LEFT ,happy/caedb73a_nohash_0, -3022, -3226
+RIGHT ,happy/cd85758f_nohash_0, -2517, -2838
+LEFT ,happy/cfde27ba_nohash_0, -2189, -2617
+LEFT ,happy/cfde27ba_nohash_1, -2834, -2585
+LEFT ,happy/cfde27ba_nohash_2, -3276, -2255
+RIGHT ,happy/d0faf7e4_nohash_0, -2882, -1960
+UP NO ,happy/d1a4fb3f_nohash_0, -2889, -2781
+UP ,happy/d91a159e_nohash_0, -2679, -3071
+STOP RIGHT ,happy/d91a159e_nohash_1, -2557, -2950
+LEFT GO ,happy/dc75148d_nohash_0, -2496, -3203
+LEFT GO ,happy/dc75148d_nohash_1, -2463, -2964
+UP RIGHT ,happy/e1469561_nohash_0, -2377, -2391
+UP RIGHT ,happy/e41a903b_nohash_0, -2260, -2803
+UP ,happy/e5e54cee_nohash_0, -2607, -3236
+LEFT RIGHT ,happy/e71b4ce6_nohash_0, -2167, -2026
+DOWN ,happy/e9901cf0_nohash_0, -2312, -3553
+LEFT RIGHT ,happy/ea356919_nohash_0, -2916, -3217
+RIGHT RIGHT ,happy/ea356919_nohash_1, -2501, -2650
+RIGHT ,happy/ea356919_nohash_2, -2834, -2760
+LEFT RIGHT ,happy/ef2a3cfb_nohash_0, -1126, -2435
+UP RIGHT ,happy/f0ae7203_nohash_0, -2803, -3059
+UP RIGHT ,happy/f292725f_nohash_0, -2813, -1309
+YES ,happy/f297e878_nohash_0, -2671, -3402
+UP RIGHT ,happy/f5496439_nohash_0, -2734, -3026
+UP RIGHT ,happy/f5496439_nohash_1, -2703, -2727
+UP RIGHT ,happy/f6af2457_nohash_0, -2419, -2743
+UP RIGHT ,happy/fa446c16_nohash_0, -2955, -2705
+LEFT ,happy/fce96bac_nohash_0, -2911, -2329
+UP ,happy/fe1916ba_nohash_0, -2299, -3304
+UP RIGHT ,happy/ffa76c4a_nohash_0, -3374, -3186
+YES ,house/022cd682_nohash_0, -3122, -2750
+UP STOP ,house/096456f9_nohash_0, -2846, -3006
+YES ,house/096456f9_nohash_1, -2193, -3340
+YES ,house/096456f9_nohash_2, -2818, -2486
+OFF ,house/0ea0e2f4_nohash_0, -2532, -2824
+GO YES ,house/0f250098_nohash_0, -3362, -3127
+YES ,house/0f250098_nohash_1, -2916, -3064
+YES ,house/0f250098_nohash_2, -2737, -2278
+OFF ,house/0fa1e7a9_nohash_0, -3050, -2173
+OFF ,house/0fa1e7a9_nohash_1, -2688, -3163
+OFF ,house/105a0eea_nohash_0, -904, -3343
+STOP OFF ,house/105a0eea_nohash_1, -2715, -1777
+OFF ,house/1b4c9b89_nohash_0, -2461, -1456
+ ,house/1cb788bc_nohash_0, -2973, -2620
+OFF ,house/1f653d27_nohash_0, -2146, -1796
+DOWN ,house/1f653d27_nohash_1, -2386, -2490
+OFF ,house/1f653d27_nohash_2, -1935, -1960
+OFF ,house/20d3f11f_nohash_0, -1851, -2156
+OFF ,house/20d3f11f_nohash_1, -2889, -2850
+OFF YES ,house/210f3aa9_nohash_0, -1399, -2899
+STOP YES ,house/210f3aa9_nohash_1, -2644, -2299
+OFF ,house/24ad3ebe_nohash_0, -2274, -2532
+OFF ,house/26b28ea7_nohash_0, -2078, -2163
+OFF ,house/2796ac50_nohash_0, -2402, -1946
+OFF ,house/283d7a53_nohash_0, -2492, -1494
+OFF ,house/283d7a53_nohash_1, -2634, -2723
+STOP YES ,house/2aa787cf_nohash_0, -2704, -2617
+STOP YES ,house/2aa787cf_nohash_1, -3039, -2282
+UP YES ,house/2fa39636_nohash_0, -3097, -2525
+DOWN OFF ,house/370844f7_nohash_0, -2339, -2070
+OFF ,house/370844f7_nohash_1, -1870, -2514
+OFF ,house/37dca74f_nohash_0, -2010, -2741
+YES ,house/3df9a3d4_nohash_0, -2158, -2608
+UP ,house/3df9a3d4_nohash_1, -2197, -2988
+NO YES ,house/3f170018_nohash_0, -2535, -1520
+GO ,house/412c675c_nohash_0, -2424, -2020
+OFF ,house/422d3197_nohash_0, -2427, -2454
+YES ,house/422d3197_nohash_1, -2164, -2571
+OFF ,house/43fc47a7_nohash_0, -2770, -2535
+OFF ,house/43fc47a7_nohash_1, -2914, -2127
+OFF ,house/44260689_nohash_0, -2705, -2468
+UP STOP ,house/44715c1c_nohash_0, -2193, -2600
+YES ,house/4620dc14_nohash_0, -2821, -3034
+YES ,house/4620dc14_nohash_1, -2150, -2811
+NO STOP ,house/47d01978_nohash_0, -2199, -3296
+NO STOP ,house/47d01978_nohash_1, -2468, -2478
+OFF ,house/4845bb10_nohash_0, -3961, -2473
+UP OFF ,house/48a8a69d_nohash_0, -3335, -2963
+OFF ,house/4c4d2526_nohash_0, -4588, -3565
+UP OFF STOP ,house/4c7c95de_nohash_0, -3779, -3777
+OFF ,house/4c7c95de_nohash_1, -1266, -3879
+ ,house/4c7c95de_nohash_2, -3032, -3769
+OFF ,house/4c7c95de_nohash_3, -3185, -2115
+UP OFF ,house/4c7c95de_nohash_4, -2918, -2122
+OFF ,house/4f8ef132_nohash_0, -2489, -3476
+OFF ,house/50033893_nohash_0, -2854, -2125
+UP OFF ,house/5525ff66_nohash_0, -2080, -2253
+OFF ,house/563aa4e6_nohash_0, -2468, -3376
+OFF ,house/5744b6a7_nohash_0, -1148, -1574
+UP STOP ,house/5744b6a7_nohash_1, -2343, -1932
+OFF ,house/5c8af87a_nohash_0, -3088, -1257
+UP UP ,house/5e3dde6b_nohash_0, -2470, -3154
+NO ,house/5eb5fc74_nohash_0, -3016, -2304
+OFF ,house/5ff3f9a1_nohash_0, -2414, -2723
+OFF ,house/6021f08b_nohash_0, -1750, -2290
+OFF ,house/653a48f5_nohash_0, -2569, -3288
+OFF ,house/68dd409e_nohash_0, -3675, -1556
+GO RIGHT ,house/692a88e6_nohash_0, -2081, -2663
+NO ,house/6e916de8_nohash_0, -3207, -3488
+OFF ,house/7192fddc_nohash_0, -1819, -2598
+UP YES ,house/7257420c_nohash_0, -2603, -4550
+UP RIGHT ,house/782c1305_nohash_0, -2403, -2482
+LEFT ,house/798f702a_nohash_0, -2735, -1993
+RIGHT ,house/798f702a_nohash_1, -2657, -1802
+OFF ,house/7add4c5f_nohash_0, -2489, -3295
+OFF ,house/7bae88ed_nohash_0, -2616, -2804
+YES ,house/7e1054e7_nohash_0, -2445, -3440
+YES ,house/7e1054e7_nohash_1, -2910, -3831
+GO YES ,house/8056e897_nohash_0, -2831, -2767
+NO OFF ,house/8056e897_nohash_1, -2996, -2751
+GO YES ,house/80c45ed6_nohash_0, -2711, -2922
+GO YES ,house/80c45ed6_nohash_1, -2819, -1847
+RIGHT ,house/81dc4a94_nohash_0, -3604, -2304
+YES ,house/82b99576_nohash_0, -3168, -2516
+OFF YES ,house/840c366d_nohash_0, -2392, -3506
+YES ,house/84d1e469_nohash_0, -1736, -3131
+NO YES ,house/8a325749_nohash_0, -1664, -3119
+STOP YES ,house/8a325749_nohash_1, -2197, -2233
+STOP STOP ,house/8c7f81df_nohash_0, -4141, -2609
+GO ,house/8c7f81df_nohash_1, -2519, -1884
+OFF ,house/8fe52b97_nohash_0, -2486, -2120
+OFF ,house/91223b83_nohash_0, -2969, -2703
+OFF ,house/94de6a6a_nohash_0, -2651, -2633
+OFF ,house/95ba4996_nohash_0, -2337, -2098
+UP YES ,house/964e8cfd_nohash_0, -2337, -1742
+OFF ,house/97f4c236_nohash_0, -2233, -1894
+GO ,house/9a69672b_nohash_0, -2436, -1894
+OFF ,house/9a7c1f83_nohash_0, -2224, -1990
+OFF ,house/9a7c1f83_nohash_1, -2662, -1528
+STOP ,house/9d4bab4f_nohash_0, -3087, -3792
+DOWN ,house/9e2ce5e3_nohash_0, -2642, -2724
+DOWN STOP ,house/a4e8a997_nohash_0, -2031, -2051
+NO YES ,house/a60a09cf_nohash_0, -2159, -2565
+YES ,house/aa233654_nohash_0, -2624, -1589
+YES ,house/aa233654_nohash_1, -2319, -1512
+ON ,house/ad6a46f1_nohash_0, -2582, -2255
+NO ,house/ad6a46f1_nohash_1, -2375, -2090
+OFF ,house/aef8dcf5_nohash_0, -2365, -1870
+OFF ,house/aef8dcf5_nohash_1, -1828, -2307
+YES ,house/af405b69_nohash_0, -2942, -2175
+YES ,house/af7a8296_nohash_0, -2441, -1752
+YES ,house/af7a8296_nohash_1, -2864, -2602
+DOWN ,house/b11a05d2_nohash_0, -2445, -869
+OFF ,house/b11a05d2_nohash_1, -1862, -2666
+YES ,house/b2e2773a_nohash_0, -3093, -2459
+OFF ,house/b49caed3_nohash_0, -3452, -1433
+GO YES ,house/b737ee80_nohash_0, -2157, -3087
+GO ,house/b737ee80_nohash_1, -1505, -2420
+YES ,house/b83c1acf_nohash_0, -2030, -2209
+OFF ,house/b97c9f77_nohash_0, -2596, -1255
+OFF ,house/bb31b82b_nohash_0, -1795, -3314
+DOWN ,house/bed06fac_nohash_0, -2068, -3102
+YES ,house/c0e0f834_nohash_0, -2391, -1526
+YES ,house/c0e0f834_nohash_1, -2467, -3855
+GO ,house/c22d3f18_nohash_0, -3140, -2088
+OFF ,house/c518d1b1_nohash_0, -2760, -2150
+YES ,house/c7124b73_nohash_0, -2543, -2157
+OFF ,house/ca48dc76_nohash_0, -2984, -2124
+OFF ,house/cd85758f_nohash_0, -2386, -3151
+OFF ,house/d0faf7e4_nohash_0, -2410, -3874
+DOWN STOP ,house/d103dd6e_nohash_0, -2905, -2135
+YES ,house/d1a4fb3f_nohash_0, -2062, -2692
+YES ,house/d1a4fb3f_nohash_1, -2046, -2767
+OFF ,house/d91a159e_nohash_0, -4299, -1551
+OFF ,house/d9e9f554_nohash_0, -2752, -2387
+OFF ,house/e1469561_nohash_0, -1600, -2976
+OFF STOP ,house/e41a903b_nohash_0, -1628, -2473
+UP STOP ,house/e5e54cee_nohash_0, -2563, -2810
+OFF GO ,house/e9901cf0_nohash_0, -2632, -1717
+RIGHT ,house/f264e0df_nohash_0, -3074, -3278
+GO ,house/f297e878_nohash_0, -2212, -2750
+NO YES ,house/f428ca69_nohash_0, -2801, -3353
+OFF ,house/f5496439_nohash_0, -2954, -2210
+OFF ,house/f5496439_nohash_1, -2519, -2680
+OFF ,house/fe1916ba_nohash_0, -2746, -2022
+OFF ,house/fe1916ba_nohash_1, -3042, -2068
+OFF ,house/fe1916ba_nohash_2, -3005, -2505
+ON ,house/ffa76c4a_nohash_0, -2603, -3730
+OFF ,house/ffb86d3c_nohash_0, -2271, -2538
+OFF GO YES ,house/ffb86d3c_nohash_1, -2617, -2686
+ON DOWN ,marvin/022cd682_nohash_0, -3007, -2659
+ON ,marvin/096456f9_nohash_0, -2474, -3050
+DOWN RIGHT ,marvin/096456f9_nohash_1, -2255, -2650
+ON LEFT ,marvin/096456f9_nohash_2, -3887, -1685
+LEFT ON ,marvin/0c40e715_nohash_0, -2987, -1461
+LEFT ,marvin/0d53e045_nohash_0, -2594, -3726
+LEFT ,marvin/0d53e045_nohash_1, -2675, -2936
+NO ON DOWN ,marvin/105a0eea_nohash_0, -2594, -3301
+YES ON ,marvin/1093c8e7_nohash_0, -3180, -2257
+ON ON ,marvin/135c6841_nohash_0, -3042, -2269
+NO ON ,marvin/1528225c_nohash_0, -3140, -2840
+ON ,marvin/1528225c_nohash_1, -2951, -3239
+UP ,marvin/1b4c9b89_nohash_0, -1961, -2706
+ON DOWN ,marvin/1f3bece8_nohash_0, -2669, -2650
+RIGHT DOWN ,marvin/1f653d27_nohash_0, -1440, -1805
+ON ,marvin/1fe4c891_nohash_0, -2848, -2400
+OFF ,marvin/20d3f11f_nohash_0, -2462, -1671
+ON ,marvin/24ad3ebe_nohash_0, -2887, -2466
+ON ,marvin/24ad3ebe_nohash_1, -2876, -2759
+ON ON ,marvin/24ad3ebe_nohash_2, -2147, -3037
+ON ,marvin/24ad3ebe_nohash_3, -1475, -2282
+NO ON ,marvin/27c30960_nohash_0, -2397, -1640
+ON ,marvin/2aa787cf_nohash_0, -1850, -1669
+ON ,marvin/2c6d3924_nohash_0, -2982, -1603
+ON ,marvin/2d82a556_nohash_0, -2389, -1673
+ON ,marvin/2d82a556_nohash_1, -3366, -3157
+OFF ,marvin/2fa39636_nohash_0, -2651, -2921
+LEFT ,marvin/370844f7_nohash_0, -2526, -2508
+UP ,marvin/37dca74f_nohash_0, -499, -2085
+ON ,marvin/37fc5d97_nohash_0, -2295, -2994
+ON UP ,marvin/3c165869_nohash_0, -2297, -572
+ON ,marvin/3cbd76a3_nohash_0, -1992, -2284
+GO ,marvin/3f2b358d_nohash_0, -3966, -2403
+OFF ,marvin/412c675c_nohash_0, -3319, -2005
+LEFT ,marvin/422d3197_nohash_0, -3382, -3738
+UP ,marvin/422d3197_nohash_1, -671, -3299
+LEFT ON ,marvin/4290ca61_nohash_0, -3761, -2956
+NO ON DOWN ,marvin/42beb5eb_nohash_0, -2245, -2013
+NO ON RIGHT ,marvin/42beb5eb_nohash_1, -875, -3009
+RIGHT ,marvin/44715c1c_nohash_0, -2576, -2747
+DOWN ON ,marvin/47d01978_nohash_0, -2764, -1275
+LEFT ,marvin/48a8a69d_nohash_0, -2612, -2878
+RIGHT ,marvin/4a0e2c16_nohash_0, -4599, -3008
+RIGHT DOWN ,marvin/4c841771_nohash_0, -2817, -2615
+RIGHT DOWN ,marvin/4c841771_nohash_1, -2340, -4319
+LEFT ,marvin/4f8ef132_nohash_0, -2627, -1357
+LEFT ON ,marvin/5525ff66_nohash_0, -2281, -1384
+LEFT ,marvin/553f1a79_nohash_0, -3913, -2548
+ ,marvin/563aa4e6_nohash_0, -2902, -1576
+OFF ,marvin/5744b6a7_nohash_0, -2809, -2396
+ON ,marvin/5744b6a7_nohash_1, -2723, -2243
+ON DOWN ,marvin/587f3271_nohash_0, -3221, -2735
+ON ,marvin/5c8af87a_nohash_0, -2743, -3961
+OFF ON ,marvin/5e3dde6b_nohash_0, -3957, -2168
+NO RIGHT ON ,marvin/5f814c23_nohash_0, -3404, -3147
+ON ,marvin/6021f08b_nohash_0, -2989, -3462
+RIGHT ,marvin/67961766_nohash_0, -3981, -3576
+NO ON DOWN ,marvin/67961766_nohash_1, -3994, -2033
+DOWN ON ,marvin/67961766_nohash_2, -3686, -3145
+ON ,marvin/68dd409e_nohash_0, -2241, -3481
+LEFT ON ,marvin/692a88e6_nohash_0, -3125, -2675
+NO ,marvin/6b889021_nohash_0, -3268, -1913
+ON ,marvin/6b889021_nohash_1, -3067, -3144
+ON ,marvin/6e916de8_nohash_0, -2558, -2711
+GO ON ,marvin/6f2f57c1_nohash_0, -2320, -2821
+LEFT ,marvin/6f689791_nohash_0, -2779, -3136
+ON ,marvin/6f689791_nohash_1, -3033, -2824
+YES RIGHT ,marvin/7192fddc_nohash_0, -2753, -2813
+ON DOWN ,marvin/7add4c5f_nohash_0, -2509, -2244
+ON ,marvin/7add4c5f_nohash_1, -2769, -2118
+ON ,marvin/7bae88ed_nohash_0, -3177, -1703
+OFF ,marvin/7bae88ed_nohash_1, -2839, -2247
+ON ,marvin/7bae88ed_nohash_2, -3560, -3601
+UP ,marvin/7bae88ed_nohash_3, -2594, -3294
+NO DOWN ,marvin/7e1054e7_nohash_0, -3158, -2588
+NO DOWN ,marvin/80c45ed6_nohash_0, -3398, -2280
+NO ON ,marvin/80c45ed6_nohash_1, -3189, -2683
+DOWN ,marvin/80c45ed6_nohash_2, -2560, -2684
+RIGHT ON ,marvin/81dc4a94_nohash_0, -3411, -2214
+LEFT DOWN ,marvin/81dc4a94_nohash_1, -3091, -1976
+ON ,marvin/82b99576_nohash_0, -2183, -2661
+NO ,marvin/83957201_nohash_0, -3150, -2683
+LEFT ,marvin/840c366d_nohash_0, -3650, -2275
+LEFT ,marvin/840c366d_nohash_1, -2869, -3771
+ON ,marvin/84d1e469_nohash_0, -3058, -3307
+NO OFF ON ,marvin/85834399_nohash_0, -2682, -2467
+OFF ON ,marvin/85834399_nohash_1, -2322, -2963
+ON ,marvin/8625475c_nohash_0, -3033, -2566
+NO ON ON ,marvin/8625475c_nohash_1, -2953, -2400
+ON ,marvin/8625475c_nohash_2, -3393, -2163
+ON ,marvin/863880b7_nohash_0, -3223, -2061
+ON DOWN ,marvin/881583a6_nohash_0, -3203, -2826
+ON DOWN ,marvin/881583a6_nohash_1, -2776, -3400
+ON DOWN ,marvin/881583a6_nohash_2, -2471, -2810
+LEFT RIGHT ,marvin/8c7f81df_nohash_0, -2597, -2624
+RIGHT ,marvin/8c7f81df_nohash_1, -3201, -2147
+NO ON ,marvin/8ec6dab6_nohash_0, -2838, -2451
+ON ,marvin/8fe52b97_nohash_0, -2856, -2555
+ON ,marvin/8fe52b97_nohash_1, -2224, -1992
+RIGHT DOWN ,marvin/90b94017_nohash_0, -3241, -2733
+OFF ,marvin/91223b83_nohash_0, -2719, -3095
+RIGHT ,marvin/94de6a6a_nohash_0, -1526, -3184
+OFF ON ,marvin/95ba4996_nohash_0, -2840, -3299
+ON ,marvin/964e8cfd_nohash_0, -2840, -2653
+OFF ON ,marvin/97f4c236_nohash_0, -2840, -2025
+RIGHT ,marvin/9a69672b_nohash_0, -2839, -2025
+LEFT ,marvin/9a7c1f83_nohash_0, -2170, -2025
+LEFT ,marvin/9a7c1f83_nohash_1, -3388, -2484
+LEFT ,marvin/9a7c1f83_nohash_2, -2679, -1735
+LEFT ON ,marvin/9dc1889e_nohash_0, -2907, -2814
+ON ,marvin/9e2ce5e3_nohash_0, -2778, -2796
+ON ,marvin/a1533da4_nohash_0, -2915, -2031
+ON ,marvin/a1533da4_nohash_1, -1967, -2440
+OFF ,marvin/a591c2ea_nohash_0, -2653, -2298
+LEFT ON ,marvin/a60a09cf_nohash_0, -2162, -1337
+LEFT ON ,marvin/a60a09cf_nohash_1, -1127, -1309
+DOWN ,marvin/a8e25ebb_nohash_0, -2045, -2042
+ON ,marvin/aa48c94a_nohash_0, -2707, -1409
+ON ,marvin/ad6a46f1_nohash_0, -3948, -1580
+ON ,marvin/ad6a46f1_nohash_1, -2553, -2829
+DOWN ,marvin/adebe223_nohash_0, -3343, -3102
+ON ON ,marvin/aef8dcf5_nohash_0, -2650, -2568
+ON RIGHT ,marvin/af130f12_nohash_0, -3292, -3159
+NO ON ,marvin/af7a8296_nohash_0, -2981, -2456
+GO ,marvin/af8b2f2c_nohash_0, -2576, -2813
+ON ,marvin/af8b2f2c_nohash_1, -3556, -2965
+ON ON ,marvin/b11a05d2_nohash_0, -2905, -4191
+LEFT ,marvin/b2e2773a_nohash_0, -3371, -3586
+LEFT ,marvin/b49caed3_nohash_0, -3041, -2212
+ON ON ,marvin/b83c1acf_nohash_0, -3306, -2482
+ON ,marvin/b97c9f77_nohash_0, -2619, -2501
+OFF ON ,marvin/bed06fac_nohash_0, -3016, -2819
+ON ,marvin/bed06fac_nohash_1, -2157, -3047
+ON DOWN ,marvin/c0e0f834_nohash_0, -2789, -2601
+ON ,marvin/c0e0f834_nohash_1, -2905, -2708
+ON ,marvin/c22d3f18_nohash_0, -3564, -2958
+DOWN UP ,marvin/caf9fceb_nohash_0, -3972, -2940
+NO ON ,marvin/cc592808_nohash_0, -3173, -3600
+NO OFF ,marvin/cc592808_nohash_1, -3425, -2931
+NO ON ,marvin/cd85758f_nohash_0, -2944, -2445
+NO ON ,marvin/cfde27ba_nohash_0, -3794, -3075
+ON ,marvin/d0faf7e4_nohash_0, -2755, -2909
+LEFT ON ,marvin/d1a4fb3f_nohash_0, -2497, -3250
+LEFT ON ,marvin/d1a4fb3f_nohash_1, -1827, -3260
+LEFT ,marvin/d1a4fb3f_nohash_2, -2057, -2272
+LEFT DOWN ,marvin/d1a4fb3f_nohash_3, -2758, -2624
+ON ,marvin/e1469561_nohash_0, -3284, -4343
+ON ,marvin/e41a903b_nohash_0, -3265, -2405
+NO ,marvin/e5e54cee_nohash_0, -2857, -2538
+ON ,marvin/e71b4ce6_nohash_0, -2885, -3054
+LEFT DOWN ,marvin/ef2a3cfb_nohash_0, -2713, -3572
+ON ,marvin/ef2a3cfb_nohash_1, -1706, -3193
+NO ON RIGHT ,marvin/f0ae7203_nohash_0, -3153, -2628
+LEFT ON ,marvin/f292725f_nohash_0, -3341, -904
+ON ON ,marvin/f297e878_nohash_0, -2828, -2578
+NO ,marvin/f297e878_nohash_1, -3258, -3074
+ON DOWN ,marvin/f297e878_nohash_2, -2532, -2852
+DOWN ,marvin/f428ca69_nohash_0, -2727, -2643
+NO DOWN ,marvin/f5496439_nohash_0, -3103, -2748
+NO ON ,marvin/f5496439_nohash_1, -2722, -1929
+NO DOWN ,marvin/fce96bac_nohash_0, -3056, -3745
+RIGHT ,marvin/ffa76c4a_nohash_0, -2022, -3533
+STOP ,sheila/022cd682_nohash_0, -2731, -3873
+STOP ,sheila/022cd682_nohash_1, -2398, -2455
+RIGHT STOP ,sheila/096456f9_nohash_0, -3161, -3158
+DOWN ,sheila/0c40e715_nohash_0, -3117, -3309
+STOP ,sheila/0d53e045_nohash_0, -3552, -3438
+YES ,sheila/0d53e045_nohash_1, -2883, -3825
+STOP ,sheila/0ea0e2f4_nohash_0, -2630, -3273
+STOP ,sheila/0ea0e2f4_nohash_1, -3017, -4427
+STOP ,sheila/0f250098_nohash_0, -2511, -3529
+STOP LEFT ,sheila/0fa1e7a9_nohash_0, -1479, -3812
+STOP ,sheila/105a0eea_nohash_0, -2792, -2535
+STOP ,sheila/105a0eea_nohash_1, -3298, -2865
+DOWN ,sheila/1093c8e7_nohash_0, -2291, -2811
+DOWN ,sheila/1093c8e7_nohash_1, -2910, -2731
+DOWN ,sheila/1093c8e7_nohash_2, -1865, -2728
+STOP ,sheila/135c6841_nohash_0, -2958, -3425
+LEFT ,sheila/135c6841_nohash_1, -2298, -2510
+STOP ,sheila/1528225c_nohash_0, -2217, -3210
+STOP ,sheila/1b4c9b89_nohash_0, -2435, -3431
+LEFT ,sheila/1cb788bc_nohash_0, -2483, -3211
+OFF NO ,sheila/1cb788bc_nohash_1, -3218, -2174
+NO LEFT ,sheila/1f3bece8_nohash_0, -1456, -2314
+STOP ,sheila/1fe4c891_nohash_0, -2842, -2612
+STOP ,sheila/1fe4c891_nohash_1, -1290, -1811
+NO ,sheila/20d3f11f_nohash_0, -2942, -3638
+NO ,sheila/24ad3ebe_nohash_0, -1803, -1356
+STOP ,sheila/24ad3ebe_nohash_1, -2167, -3266
+NO ,sheila/24ad3ebe_nohash_2, -2771, -2433
+STOP ,sheila/2796ac50_nohash_0, -2144, -3139
+LEFT ,sheila/283d7a53_nohash_0, -2489, -3501
+UP ,sheila/28497c5b_nohash_0, -2597, -2551
+STOP LEFT ,sheila/28497c5b_nohash_1, -3289, -2635
+STOP ,sheila/2aa787cf_nohash_0, -2267, -3245
+NO ,sheila/2fa39636_nohash_0, -2164, -3344
+NO ,sheila/370844f7_nohash_0, -3441, -3118
+STOP ,sheila/37dca74f_nohash_0, -2847, -3281
+NO ,sheila/37fc5d97_nohash_0, -3256, -3844
+STOP ,sheila/3df9a3d4_nohash_0, -2217, -2617
+YES RIGHT ,sheila/3efef882_nohash_0, -3526, -3261
+GO ,sheila/3f2b358d_nohash_0, -3112, -4361
+NO ,sheila/412c675c_nohash_0, -2839, -1356
+STOP LEFT ,sheila/44260689_nohash_0, -2486, -2582
+STOP ,sheila/44715c1c_nohash_0, -2791, -2951
+STOP OFF ,sheila/47d01978_nohash_0, -3464, -3181
+RIGHT OFF ,sheila/4845bb10_nohash_0, -2147483648, -2373
+STOP ,sheila/4845bb10_nohash_1, -3167, -3734
+STOP ,sheila/48a8a69d_nohash_0, -2718, -1239
+STOP ,sheila/48a8a69d_nohash_1, -2883, -3694
+RIGHT ,sheila/4a0e2c16_nohash_0, -2422, -3874
+RIGHT UP ,sheila/4a0e2c16_nohash_1, -3296, -3183
+YES ,sheila/4c7c95de_nohash_0, -3207, -3093
+DOWN ,sheila/4c841771_nohash_0, -3457, -3453
+STOP LEFT ,sheila/4c841771_nohash_1, -2037, -2993
+STOP NO ,sheila/4f8ef132_nohash_0, -1913, -2787
+STOP LEFT ,sheila/50033893_nohash_0, -2547, -2805
+STOP LEFT ,sheila/50033893_nohash_1, -2906, -3323
+STOP LEFT ,sheila/50033893_nohash_2, -2814, -1779
+STOP LEFT ,sheila/553f1a79_nohash_0, -2317, -3580
+UP ,sheila/563aa4e6_nohash_0, -2474, -3749
+STOP ,sheila/5828dfa2_nohash_0, -2329, -3077
+YES LEFT ,sheila/587f3271_nohash_0, -1866, -3005
+GO ,sheila/5b1db3ee_nohash_0, -2264, -2871
+DOWN ,sheila/5b1db3ee_nohash_1, -2510, -2833
+NO ,sheila/5c8af87a_nohash_0, -2703, -1983
+UP ,sheila/5e3dde6b_nohash_0, -2370, -3819
+STOP ,sheila/5eb5fc74_nohash_0, -2716, -3520
+NO ,sheila/5ff3f9a1_nohash_0, -1750, -2630
+STOP NO ,sheila/5ff3f9a1_nohash_1, -3601, -2974
+STOP ,sheila/6021f08b_nohash_0, -3214, -3124
+STOP ,sheila/6021f08b_nohash_1, -4137, -1162
+STOP ,sheila/6021f08b_nohash_2, -3263, -3694
+STOP ,sheila/6205088b_nohash_0, -3127, -3450
+OFF LEFT ,sheila/62ff07ef_nohash_0, -2379, -4458
+STOP ,sheila/62ff07ef_nohash_1, -2917, -3035
+NO LEFT ,sheila/62ff07ef_nohash_2, -2766, -2854
+NO ,sheila/6736bc64_nohash_0, -2619, -3485
+STOP ,sheila/6736bc64_nohash_1, -3319, -3944
+YES LEFT ,sheila/692a88e6_nohash_0, -2526, -3056
+STOP ,sheila/6b889021_nohash_0, -2749, -3762
+NO ,sheila/6f2f57c1_nohash_0, -2653, -2982
+STOP ,sheila/6f689791_nohash_0, -2074, -3850
+STOP ,sheila/7192fddc_nohash_0, -2589, -3591
+NO LEFT ,sheila/7257420c_nohash_0, -3006, -2591
+STOP LEFT ,sheila/782c1305_nohash_0, -4132, -2414
+RIGHT ,sheila/798f702a_nohash_0, -3031, -2776
+RIGHT UP ,sheila/7bae88ed_nohash_0, -2041, -3443
+NO ,sheila/7dc95912_nohash_0, -2901, -2932
+STOP ,sheila/7dc95912_nohash_1, -2375, -3289
+NO ,sheila/7e1054e7_nohash_0, -2280, -2758
+NO ,sheila/80c45ed6_nohash_0, -2427, -3199
+YES ON ,sheila/81dc4a94_nohash_0, -2966, -2714
+NO ,sheila/83957201_nohash_0, -2668, -3615
+LEFT ,sheila/840c366d_nohash_0, -3030, -3872
+STOP UP ,sheila/85834399_nohash_0, -2788, -3953
+STOP ,sheila/85834399_nohash_1, -2547, -2441
+LEFT ,sheila/8625475c_nohash_0, -3494, -2356
+STOP ,sheila/881583a6_nohash_0, -2686, -2354
+STOP ,sheila/881583a6_nohash_1, -2863, -2558
+STOP ,sheila/881583a6_nohash_2, -1485, -3500
+STOP LEFT ,sheila/881583a6_nohash_3, -2976, -3398
+STOP LEFT ,sheila/8a325749_nohash_0, -2624, -4075
+STOP LEFT ,sheila/8a325749_nohash_1, -2307, -2220
+RIGHT LEFT ,sheila/8c7f81df_nohash_0, -3035, -3305
+NO ,sheila/8fe52b97_nohash_0, -2110, -2334
+LEFT ,sheila/90b94017_nohash_0, -2293, -3631
+STOP RIGHT ,sheila/94de6a6a_nohash_0, -1926, -4155
+STOP ,sheila/95ba4996_nohash_0, -2862, -2201
+STOP ,sheila/964e8cfd_nohash_0, -2856, -2562
+STOP ,sheila/97f4c236_nohash_0, -1302, -2482
+YES LEFT ,sheila/9a356ab9_nohash_0, -1302, -3024
+YES LEFT ,sheila/9a356ab9_nohash_1, -2592, -4013
+YES LEFT ,sheila/9a356ab9_nohash_2, -2374, -2834
+STOP LEFT ,sheila/9a69672b_nohash_0, -2532, -2834
+NO ,sheila/9a7c1f83_nohash_0, -3246, -2211
+NO ,sheila/9a7c1f83_nohash_1, -2945, -3499
+STOP ,sheila/9b3ea809_nohash_0, -3565, -2413
+NO UP ,sheila/9b3ea809_nohash_1, -3007, -4646
+UP ,sheila/9d171fee_nohash_0, -3093, -3893
+STOP NO OFF ,sheila/a1533da4_nohash_0, -2758, -4173
+NO ,sheila/a1533da4_nohash_1, -3099, -3288
+STOP ,sheila/a1533da4_nohash_2, -3090, -4071
+STOP NO LEFT ,sheila/a2473d62_nohash_0, -2504, -3022
+NO UP ,sheila/a4e8a997_nohash_0, -1865, -3504
+UP ,sheila/a591c2ea_nohash_0, -2838, -3922
+YES ON ,sheila/aa233654_nohash_0, -2984, -4298
+YES LEFT ,sheila/aa233654_nohash_1, -2586, -2136
+STOP ,sheila/aa233654_nohash_2, -2654, -3100
+NO ,sheila/aa48c94a_nohash_0, -2652, -1012
+YES LEFT ,sheila/aa48c94a_nohash_1, -2500, -3128
+NO ,sheila/aa48c94a_nohash_2, -2686, -3488
+STOP UP ,sheila/adebe223_nohash_0, -2589, -3337
+STOP LEFT ,sheila/aef8dcf5_nohash_0, -2166, -3496
+STOP ,sheila/af130f12_nohash_0, -2352, -3126
+STOP ,sheila/af130f12_nohash_1, -2869, -3048
+STOP ,sheila/af130f12_nohash_2, -2529, -3075
+STOP ,sheila/af130f12_nohash_3, -1776, -2549
+NO ,sheila/af405b69_nohash_0, -1945, -2383
+LEFT ,sheila/af405b69_nohash_1, -3217, -2805
+STOP LEFT ,sheila/af7a8296_nohash_0, -3885, -1742
+STOP LEFT ,sheila/af7a8296_nohash_1, -2415, -1832
+NO ,sheila/af8b2f2c_nohash_0, -3033, -3094
+NO ,sheila/af8b2f2c_nohash_1, -2088, -4555
+NO LEFT ,sheila/b1f8326d_nohash_0, -2231, -3075
+OFF RIGHT NO ,sheila/b49caed3_nohash_0, -2544, -3651
+UP ,sheila/b737ee80_nohash_0, -2232, -2446
+STOP LEFT ,sheila/b83c1acf_nohash_0, -2333, -2780
+OFF ,sheila/b97c9f77_nohash_0, -2679, -2935
+LEFT ,sheila/bb31b82b_nohash_0, -2679, -3353
+RIGHT UP ,sheila/bed06fac_nohash_0, -2652, -2786
+NO ,sheila/c22d3f18_nohash_0, -3656, -3104
+NO ,sheila/c518d1b1_nohash_0, -2983, -3779
+STOP ,sheila/ca48dc76_nohash_0, -3053, -2702
+STOP LEFT ,sheila/ca48dc76_nohash_1, -2108, -3346
+STOP ,sheila/caedb73a_nohash_0, -2829, -3846
+NO ,sheila/caf9fceb_nohash_0, -2566, -3255
+NO ,sheila/caf9fceb_nohash_1, -2743, -3751
+RIGHT UP ,sheila/caf9fceb_nohash_2, -2493, -2626
+NO ,sheila/cd85758f_nohash_0, -3002, -3584
+STOP ,sheila/cfde27ba_nohash_0, -2520, -3068
+RIGHT UP ,sheila/d0faf7e4_nohash_0, -2637, -2987
+STOP LEFT ,sheila/d103dd6e_nohash_0, -2534, -4037
+NO ,sheila/d7467392_nohash_0, -2407, -3337
+STOP OFF ,sheila/d91a159e_nohash_0, -2468, -2705
+NO ,sheila/d9e9f554_nohash_0, -3337, -3854
+STOP ,sheila/d9e9f554_nohash_1, -1935, -1778
+RIGHT ON ,sheila/dc75148d_nohash_0, -2604, -2936
+UP ,sheila/e1469561_nohash_0, -2463, -3031
+NO OFF ,sheila/e41a903b_nohash_0, -2414, -2899
+NO ,sheila/e71b4ce6_nohash_0, -2663, -2595
+NO ,sheila/e9901cf0_nohash_0, -2615, -2719
+NO ,sheila/e9901cf0_nohash_1, -2484, -3870
+NO ,sheila/e9901cf0_nohash_2, -2174, -2664
+YES LEFT ,sheila/ea356919_nohash_0, -2975, -3191
+OFF ,sheila/ef2a3cfb_nohash_0, -2093, -3424
+RIGHT DOWN ,sheila/f0ae7203_nohash_0, -2809, -3682
+RIGHT DOWN ,sheila/f0ae7203_nohash_1, -3445, -3750
+STOP ,sheila/f264e0df_nohash_0, -2380, -3000
+YES GO ,sheila/f297e878_nohash_0, -2251, -3144
+YES OFF ,sheila/f297e878_nohash_1, -2806, -4057
+STOP NO ,sheila/f5496439_nohash_0, -2793, -3816
+STOP ,sheila/f6af2457_nohash_0, -1895, -2966
+UP ,sheila/f6af2457_nohash_1, -1896, -2182
+NO ,sheila/fe1916ba_nohash_0, -3186, -3466
+STOP ,sheila/fe1916ba_nohash_1, -2329, -3774
+STOP ,sheila/ffb86d3c_nohash_0, -1629, -1784
+STOP ,sheila/ffb86d3c_nohash_1, -1517, -2065
+OFF RIGHT ,tree/022cd682_nohash_0, -2624, -1514
+OFF RIGHT ,tree/022cd682_nohash_1, -1330, -1681
+RIGHT ,tree/022cd682_nohash_2, -1473, -1950
+RIGHT ,tree/022cd682_nohash_3, -1034, -3468
+RIGHT ,tree/096456f9_nohash_0, -1851, -1123
+RIGHT ,tree/096456f9_nohash_1, -1943, -1117
+RIGHT ,tree/0c40e715_nohash_0, -2188, -1201
+RIGHT ,tree/0c40e715_nohash_1, -2473, -1903
+RIGHT ,tree/0c40e715_nohash_2, -1082, -2092
+RIGHT ,tree/0d53e045_nohash_0, -2084, -2527
+OFF RIGHT ,tree/0ea0e2f4_nohash_0, -1783, -2551
+OFF RIGHT ,tree/0fa1e7a9_nohash_0, -1691, -2162
+RIGHT ,tree/0fa1e7a9_nohash_1, -2322, -2487
+RIGHT ,tree/105a0eea_nohash_0, -1540, -1415
+RIGHT ,tree/1528225c_nohash_0, -2063, -1706
+RIGHT ,tree/1b4c9b89_nohash_0, -2391, -2665
+RIGHT ,tree/1f3bece8_nohash_0, -1468, -2527
+ON ,tree/1f3bece8_nohash_1, -1255, -1187
+RIGHT ,tree/1f653d27_nohash_0, -1677, -1405
+RIGHT ,tree/1fe4c891_nohash_0, -2038, -1843
+RIGHT ,tree/1fe4c891_nohash_1, -1666, -1816
+ON ,tree/20d3f11f_nohash_0, -2961, -1461
+ON ,tree/24ad3ebe_nohash_0, -2309, -2091
+RIGHT ,tree/2796ac50_nohash_0, -1019, -2116
+RIGHT ,tree/27c30960_nohash_0, -2100, -2384
+OFF RIGHT ,tree/283d7a53_nohash_0, -2282, -2299
+UP RIGHT ,tree/2c6d3924_nohash_0, -340, -1979
+ON ,tree/2d82a556_nohash_0, -332, -2096
+ON ,tree/2fa39636_nohash_0, -2141, -1878
+UP RIGHT ,tree/37dca74f_nohash_0, -2287, -1685
+RIGHT ,tree/37fc5d97_nohash_0, -1683, -1407
+RIGHT ,tree/3c165869_nohash_0, -1559, -2673
+RIGHT ,tree/3c165869_nohash_1, -1313, -1992
+RIGHT ,tree/3df9a3d4_nohash_0, -1624, -1323
+RIGHT ,tree/3f170018_nohash_0, -2109, -1530
+RIGHT ,tree/3ff840aa_nohash_0, -2063, -1242
+RIGHT ,tree/412c675c_nohash_0, -2006, -1780
+RIGHT ,tree/412c675c_nohash_1, -1477, -1841
+RIGHT ,tree/412c675c_nohash_2, -1730, -1985
+ON ,tree/422d3197_nohash_0, -1877, -1628
+ON ,tree/422d3197_nohash_1, -1155, -1845
+ON ,tree/422d3197_nohash_2, -2777, -2806
+RIGHT ,tree/4290ca61_nohash_0, -2528, -2618
+RIGHT ,tree/42beb5eb_nohash_0, -2326, -1466
+OFF RIGHT ,tree/42beb5eb_nohash_1, -2425, -2020
+RIGHT ,tree/44260689_nohash_0, -2371, -2078
+RIGHT ,tree/44260689_nohash_1, -2722, -1963
+RIGHT ,tree/44715c1c_nohash_0, -2496, -1228
+RIGHT ,tree/44715c1c_nohash_1, -2327, -1630
+RIGHT ,tree/44715c1c_nohash_2, -634, -2456
+RIGHT ,tree/4620dc14_nohash_0, -1637, -1669
+RIGHT ,tree/47d01978_nohash_0, -2811, -1552
+RIGHT ,tree/4845bb10_nohash_0, -1905, -1378
+RIGHT ,tree/4845bb10_nohash_1, -2403, -2286
+RIGHT ,tree/4a0e2c16_nohash_0, -2435, -3260
+RIGHT ,tree/4c4d2526_nohash_0, -1376, -2958
+UP RIGHT ,tree/4c7c95de_nohash_0, -2968, -1628
+RIGHT ,tree/4f8ef132_nohash_0, -2541, -2157
+RIGHT ,tree/50033893_nohash_0, -1168, -2436
+RIGHT ,tree/5525ff66_nohash_0, -2659, -2716
+LEFT ,tree/563aa4e6_nohash_0, -2593, -2210
+OFF ON ,tree/5828dfa2_nohash_0, -2538, -2886
+RIGHT ,tree/5828dfa2_nohash_1, -2674, -2398
+RIGHT ,tree/5c8af87a_nohash_0, -2825, -3508
+GO ,tree/5e3dde6b_nohash_0, -2621, -1457
+OFF RIGHT ,tree/5f814c23_nohash_0, -2261, -1893
+RIGHT ,tree/6021f08b_nohash_0, -1489, -2114
+RIGHT ,tree/653a48f5_nohash_0, -1418, -1758
+RIGHT ,tree/653a48f5_nohash_1, -1896, -1667
+RIGHT ,tree/653a48f5_nohash_2, -1897, -1377
+RIGHT ,tree/6736bc64_nohash_0, -1968, -1594
+RIGHT ,tree/68dd409e_nohash_0, -2432, -2483
+RIGHT ,tree/68dd409e_nohash_1, -2129, -2461
+RIGHT ,tree/692a88e6_nohash_0, -1559, -1788
+ON ,tree/6b889021_nohash_0, -1303, -1895
+RIGHT ,tree/6f2f57c1_nohash_0, -2095, -1911
+RIGHT ,tree/7257420c_nohash_0, -3255, -1796
+RIGHT ,tree/782c1305_nohash_0, -1983, -1247
+RIGHT ,tree/782c1305_nohash_1, -1557, -1780
+RIGHT ,tree/782c1305_nohash_2, -2081, -3269
+RIGHT ,tree/782c1305_nohash_3, -2981, -999
+RIGHT ,tree/798f702a_nohash_0, -2203, -1828
+RIGHT ,tree/7add4c5f_nohash_0, -1800, -2441
+RIGHT ,tree/7add4c5f_nohash_1, -2202, -2238
+RIGHT ,tree/7dc95912_nohash_0, -1339, -2684
+RIGHT ,tree/80c45ed6_nohash_0, -2170, -1532
+RIGHT ,tree/80c45ed6_nohash_1, -1892, -1956
+RIGHT ,tree/82b99576_nohash_0, -1824, -1956
+RIGHT ,tree/82b99576_nohash_1, -1675, -2468
+RIGHT ,tree/82b99576_nohash_2, -2518, -2086
+ON ,tree/83957201_nohash_0, -1987, -2859
+ON ,tree/83957201_nohash_1, -1444, -2292
+ON ,tree/83957201_nohash_2, -964, -1711
+RIGHT ,tree/840c366d_nohash_0, -2094, -2112
+RIGHT ,tree/8494fba8_nohash_0, -2010, -1882
+RIGHT ,tree/84d1e469_nohash_0, -2171, -1859
+RIGHT ,tree/84d1e469_nohash_1, -1422, -2377
+RIGHT ,tree/85834399_nohash_0, -1886, -2039
+RIGHT ,tree/85834399_nohash_1, -2080, -1824
+RIGHT ,tree/85834399_nohash_2, -1151, -1957
+RIGHT ,tree/8625475c_nohash_0, -1688, -2287
+ON ,tree/8625475c_nohash_1, -1983, -2194
+ON ,tree/8625475c_nohash_2, -2067, -1692
+RIGHT ,tree/8625475c_nohash_3, -2651, -2399
+ON ,tree/863880b7_nohash_0, -2371, -2201
+OFF ON ,tree/863880b7_nohash_1, -2713, -2457
+RIGHT ,tree/8a325749_nohash_0, -2246, -1749
+RIGHT ,tree/8a325749_nohash_1, -1876, -1793
+RIGHT ,tree/8a325749_nohash_2, -1881, -2485
+RIGHT ,tree/8a325749_nohash_3, -1821, -2263
+RIGHT ,tree/8c7f81df_nohash_0, -1784, -1644
+RIGHT ,tree/8c7f81df_nohash_1, -1994, -1800
+RIGHT ,tree/90b94017_nohash_0, -2610, -1893
+RIGHT ,tree/90b94017_nohash_1, -1603, -1543
+RIGHT ,tree/91223b83_nohash_0, -2142, -2335
+RIGHT ,tree/94de6a6a_nohash_0, -2188, -2448
+RIGHT ,tree/95ba4996_nohash_0, -2316, -1623
+GO ,tree/964e8cfd_nohash_0, -2316, -2147
+RIGHT ,tree/97f4c236_nohash_0, -2625, -2082
+RIGHT ,tree/9a356ab9_nohash_0, -2197, -1545
+RIGHT ,tree/9a69672b_nohash_0, -2630, -1545
+RIGHT ,tree/9a7c1f83_nohash_0, -1963, -1496
+RIGHT ,tree/9a7c1f83_nohash_1, -2033, -2137
+RIGHT ,tree/9b3ea809_nohash_0, -2731, -1726
+RIGHT ,tree/9d171fee_nohash_0, -3067, -1186
+RIGHT ,tree/9dc1889e_nohash_0, -1687, -1160
+RIGHT ,tree/a1533da4_nohash_0, -2075, -2762
+RIGHT ,tree/a2473d62_nohash_0, -2130, -2353
+OFF RIGHT ,tree/a4e8a997_nohash_0, -1670, -2126
+RIGHT ,tree/a4e8a997_nohash_1, -2150, -1876
+OFF RIGHT ,tree/a591c2ea_nohash_0, -1700, -2801
+RIGHT ,tree/a591c2ea_nohash_1, -1627, -2062
+DOWN RIGHT ,tree/a591c2ea_nohash_2, -2260, -1758
+RIGHT ,tree/aa233654_nohash_0, -1534, -1848
+RIGHT ,tree/aa48c94a_nohash_0, -1898, -1821
+RIGHT ,tree/aef8dcf5_nohash_0, -1334, -1565
+RIGHT ,tree/aef8dcf5_nohash_1, -1608, -1858
+RIGHT ,tree/aef8dcf5_nohash_2, -1990, -2064
+OFF RIGHT ,tree/af130f12_nohash_0, -2768, -1646
+RIGHT ,tree/af130f12_nohash_1, -2691, -1151
+RIGHT ,tree/af405b69_nohash_0, -3006, -1932
+RIGHT ,tree/af7a8296_nohash_0, -3109, -2452
+RIGHT ,tree/af8b2f2c_nohash_0, -2868, -1677
+RIGHT ,tree/b11a05d2_nohash_0, -2432, -3643
+STOP ,tree/b2e2773a_nohash_0, -3015, -3125
+RIGHT ,tree/b2e2773a_nohash_1, -1863, -3187
+OFF RIGHT ,tree/b2e2773a_nohash_2, -1545, -2618
+RIGHT ,tree/b49caed3_nohash_0, -2207, -2201
+ON ,tree/b737ee80_nohash_0, -2310, -1575
+RIGHT ,tree/b83c1acf_nohash_0, -1521, -2004
+RIGHT ,tree/b97c9f77_nohash_0, -2351, -1239
+RIGHT ,tree/c0e0f834_nohash_0, -2288, -1720
+RIGHT ,tree/c0e0f834_nohash_1, -2339, -1888
+RIGHT ,tree/c0e0f834_nohash_2, -2869, -2005
+ON ,tree/c22d3f18_nohash_0, -2752, -1842
+RIGHT ,tree/c7124b73_nohash_0, -1525, -1965
+RIGHT ,tree/caedb73a_nohash_0, -1946, -2039
+RIGHT ,tree/caedb73a_nohash_1, -2903, -2870
+RIGHT ,tree/caedb73a_nohash_2, -2506, -1350
+RIGHT ,tree/caf9fceb_nohash_0, -1761, -2145
+RIGHT ,tree/cc592808_nohash_0, -2405, -1543
+RIGHT ,tree/cc592808_nohash_1, -1947, -2056
+RIGHT ,tree/cd85758f_nohash_0, -2658, -1564
+RIGHT ,tree/cfde27ba_nohash_0, -2268, -1655
+RIGHT ,tree/d0faf7e4_nohash_0, -2579, -1759
+RIGHT ,tree/d103dd6e_nohash_0, -1983, -1946
+RIGHT ,tree/d5ca80c6_nohash_0, -1644, -1655
+RIGHT ,tree/d5ca80c6_nohash_1, -1996, -1776
+RIGHT ,tree/d7467392_nohash_0, -1435, -2151
+RIGHT ,tree/d7467392_nohash_1, -1919, -1605
+RIGHT ,tree/d9e9f554_nohash_0, -2441, -2216
+RIGHT ,tree/daf230ac_nohash_0, -3996, -1820
+RIGHT ,tree/daf230ac_nohash_1, -2302, -1856
+RIGHT ,tree/daf230ac_nohash_2, -2177, -1233
+RIGHT ,tree/e1469561_nohash_0, -1163, -2635
+RIGHT ,tree/e41a903b_nohash_0, -1670, -2151
+RIGHT ,tree/e5e54cee_nohash_0, -2017, -2258
+RIGHT ,tree/e71b4ce6_nohash_0, -1881, -2512
+ON ,tree/e9901cf0_nohash_0, -1460, -1690
+ON ,tree/e9901cf0_nohash_1, -2325, -1750
+RIGHT ,tree/ea356919_nohash_0, -1478, -2040
+RIGHT ,tree/ef2a3cfb_nohash_0, -1815, -1400
+RIGHT ,tree/ef2a3cfb_nohash_1, -1692, -2033
+RIGHT ,tree/ef2a3cfb_nohash_2, -3016, -1383
+RIGHT ,tree/f0ae7203_nohash_0, -2244, -1934
+RIGHT ,tree/f0ae7203_nohash_1, -1523, -2117
+RIGHT ,tree/f292725f_nohash_0, -2467, -2564
+RIGHT ,tree/f297e878_nohash_0, -2166, -1865
+RIGHT ,tree/f428ca69_nohash_0, -2235, -2039
+RIGHT ,tree/f5496439_nohash_0, -2439, -2582
+RIGHT ,tree/f5496439_nohash_1, -1730, -2470
+ON ,tree/f6af2457_nohash_0, -2652, -3170
+RIGHT ,tree/ffb86d3c_nohash_0, -2206, -2263
+LEFT ,wow/0d53e045_nohash_0, -3245, -2134
+NO ,wow/0ea0e2f4_nohash_0, -2701, -2333
+NO ,wow/0f250098_nohash_0, -1989, -1939
+NO ,wow/0f250098_nohash_1, -2097, -3591
+OFF ,wow/105a0eea_nohash_0, -3195, -2746
+LEFT NO ,wow/135c6841_nohash_0, -2664, -2465
+LEFT ,wow/135c6841_nohash_1, -2178, -2143
+GO ,wow/1b4c9b89_nohash_0, -2665, -2476
+GO ,wow/1f3bece8_nohash_0, -1260, -1922
+LEFT GO ,wow/1fe4c891_nohash_0, -1882, -2375
+LEFT ,wow/1fe4c891_nohash_1, -2331, -3178
+LEFT ,wow/20d3f11f_nohash_0, -1325, -2126
+NO ,wow/20d3f11f_nohash_1, -2444, -2065
+OFF ,wow/210f3aa9_nohash_0, -2689, -2489
+DOWN ,wow/210f3aa9_nohash_1, -3734, -2376
+DOWN ,wow/26b28ea7_nohash_0, -1624, -2830
+DOWN ,wow/283d7a53_nohash_0, -2353, -3427
+LEFT ,wow/2aa787cf_nohash_0, -1995, -4004
+LEFT ,wow/2c6d3924_nohash_0, -2003, -1236
+LEFT ,wow/2c6d3924_nohash_1, -2003, -2129
+LEFT ,wow/2d82a556_nohash_0, -1508, -2203
+DOWN ,wow/2fa39636_nohash_0, -2610, -2302
+NO ,wow/2fa39636_nohash_1, -2613, -2604
+NO ,wow/2fa39636_nohash_2, -2639, -1676
+DOWN ,wow/370844f7_nohash_0, -472, -2847
+UP ,wow/37dca74f_nohash_0, -1746, -2360
+LEFT ,wow/3c165869_nohash_0, -1648, -2510
+OFF ,wow/3df9a3d4_nohash_0, -1581, -507
+DOWN ,wow/3f170018_nohash_0, -2589, -1702
+GO ,wow/3f2b358d_nohash_0, -2794, -2080
+DOWN ,wow/422d3197_nohash_0, -2864, -1622
+DOWN ,wow/422d3197_nohash_1, -2419, -2566
+DOWN ,wow/422d3197_nohash_2, -2909, -2490
+GO ,wow/4290ca61_nohash_0, -1996, -2554
+LEFT ,wow/4290ca61_nohash_1, -3060, -2069
+NO ,wow/43fc47a7_nohash_0, -888, -3340
+DOWN ,wow/43fc47a7_nohash_1, -1895, -2349
+DOWN ,wow/44260689_nohash_0, -2077, -1234
+OFF ,wow/44260689_nohash_1, -2147483648, -1806
+NO ,wow/44715c1c_nohash_0, -2845, -2824
+NO ,wow/47d01978_nohash_0, -4269, -2458
+DOWN ,wow/47d01978_nohash_1, -2419, -1339
+DOWN ,wow/48a8a69d_nohash_0, -1489, -955
+RIGHT ,wow/4a0e2c16_nohash_0, -1535, -3528
+RIGHT ,wow/4a0e2c16_nohash_1, -1257, -4287
+DOWN ,wow/4c7c95de_nohash_0, -1625, -2824
+UP LEFT ,wow/4c7c95de_nohash_1, -1594, -2267
+LEFT ,wow/4f8ef132_nohash_0, -1932, -2290
+LEFT ,wow/553f1a79_nohash_0, -1794, -1655
+OFF ,wow/563aa4e6_nohash_0, -2833, -1689
+ON ,wow/5744b6a7_nohash_0, -1793, -1846
+OFF ,wow/5744b6a7_nohash_1, -2919, -2673
+GO ,wow/5744b6a7_nohash_2, -1462, -1955
+OFF ,wow/5828dfa2_nohash_0, -2842, -1926
+OFF ,wow/5828dfa2_nohash_1, -2359, -2998
+LEFT ,wow/58d174ca_nohash_0, -1939, -2528
+UP STOP ,wow/5c8af87a_nohash_0, -1576, -1125
+ON ,wow/5e3dde6b_nohash_0, -2250, -2115
+LEFT ,wow/5eb5fc74_nohash_0, -3458, -1563
+DOWN ,wow/6205088b_nohash_0, -2520, -1797
+LEFT ,wow/6205088b_nohash_1, -1956, -2128
+OFF ,wow/653a48f5_nohash_0, -1584, -2434
+NO ,wow/6736bc64_nohash_0, -2247, -3006
+LEFT NO ,wow/6736bc64_nohash_1, -1695, -2974
+RIGHT GO ,wow/67961766_nohash_0, -3224, -2116
+OFF ,wow/692a88e6_nohash_0, -1132, -3146
+LEFT ,wow/6e916de8_nohash_0, -3166, -2223
+GO ,wow/6e916de8_nohash_1, -1545, -1853
+LEFT ,wow/6e916de8_nohash_2, -1937, -2294
+LEFT ,wow/6e916de8_nohash_3, -1324, -1932
+DOWN ,wow/6f689791_nohash_0, -2606, -3459
+OFF ,wow/7192fddc_nohash_0, -3102, -2086
+DOWN ,wow/7257420c_nohash_0, -2884, -1986
+LEFT ,wow/782c1305_nohash_0, -2604, -1691
+OFF ,wow/782c1305_nohash_1, -2205, -3780
+LEFT ,wow/798f702a_nohash_0, -2878, -3387
+RIGHT OFF ,wow/798f702a_nohash_1, -2809, -2891
+LEFT GO ,wow/7add4c5f_nohash_0, -2304, -3071
+NO ,wow/7add4c5f_nohash_1, -3121, -1989
+NO ,wow/7add4c5f_nohash_2, -1999, -3144
+NO ,wow/7dc95912_nohash_0, -2812, -2745
+LEFT NO ,wow/8056e897_nohash_0, -2395, -3279
+LEFT ,wow/81dc4a94_nohash_0, -3082, -3105
+LEFT DOWN ,wow/82b99576_nohash_0, -1859, -2861
+LEFT DOWN ,wow/82b99576_nohash_1, -1845, -2847
+GO ,wow/83957201_nohash_0, -3552, -2317
+DOWN ,wow/8494fba8_nohash_0, -2374, -2680
+LEFT ,wow/8494fba8_nohash_1, -1699, -1884
+LEFT NO ,wow/8625475c_nohash_0, -2385, -1596
+NO ,wow/881583a6_nohash_0, -2439, -3579
+NO ,wow/881583a6_nohash_1, -2026, -2328
+DOWN ,wow/8c7f81df_nohash_0, -1801, -2364
+NO ,wow/8ec6dab6_nohash_0, -3319, -2013
+DOWN ,wow/8fe52b97_nohash_0, -1920, -2197
+LEFT ,wow/8fe52b97_nohash_1, -2220, -2173
+LEFT ,wow/90b94017_nohash_0, -1929, -2004
+NO ,wow/91223b83_nohash_0, -2462, -3814
+OFF ,wow/91223b83_nohash_1, -2082, -2858
+GO NO ,wow/94de6a6a_nohash_0, -1782, -2251
+OFF ,wow/964e8cfd_nohash_0, -1782, -2131
+RIGHT GO ,wow/97f4c236_nohash_0, -1518, -2195
+DOWN ,wow/9a356ab9_nohash_0, -1287, -2700
+DOWN ,wow/9a356ab9_nohash_1, -1607, -2168
+NO ,wow/9a69672b_nohash_0, -2302, -2168
+NO ,wow/9a7c1f83_nohash_0, -1813, -2241
+NO ,wow/9a7c1f83_nohash_1, -1835, -1458
+NO ,wow/9b3ea809_nohash_0, -2086, -1475
+ON ,wow/9d171fee_nohash_0, -2985, -3157
+LEFT ,wow/9d171fee_nohash_1, -2112, -1830
+LEFT NO ,wow/9d4bab4f_nohash_0, -2456, -1782
+GO ,wow/9e2ce5e3_nohash_0, -2281, -2639
+DOWN ,wow/a2473d62_nohash_0, -2508, -2848
+UP NO ,wow/a2473d62_nohash_1, -2162, -3325
+LEFT GO ,wow/a4e8a997_nohash_0, -3152, -1909
+GO ,wow/a4e8a997_nohash_1, -1439, -2010
+NO ,wow/a591c2ea_nohash_0, -1952, -2202
+NO ,wow/a591c2ea_nohash_1, -1718, -1733
+NO ,wow/a591c2ea_nohash_2, -2192, -2823
+DOWN ,wow/adebe223_nohash_0, -2653, -1871
+LEFT NO ,wow/af130f12_nohash_0, -2983, -2479
+LEFT ,wow/af405b69_nohash_0, -2403, -1684
+LEFT ,wow/af405b69_nohash_1, -2788, -2499
+OFF ,wow/af7a8296_nohash_0, -2484, -2984
+NO ,wow/af8b2f2c_nohash_0, -1652, -2835
+NO ,wow/af8b2f2c_nohash_1, -2637, -3442
+LEFT GO ,wow/b11a05d2_nohash_0, -2622, -2554
+GO ,wow/b2e2773a_nohash_0, -2922, -2810
+DOWN ,wow/b49caed3_nohash_0, -3174, -1875
+NO ,wow/b83c1acf_nohash_0, -1333, -2141
+GO ,wow/b97c9f77_nohash_0, -1940, -2900
+NO ,wow/bb31b82b_nohash_0, -1697, -2748
+NO ,wow/bb31b82b_nohash_1, -2323, -2470
+DOWN ,wow/bed06fac_nohash_0, -2113, -1668
+DOWN ,wow/bed06fac_nohash_1, -2574, -2425
+OFF ,wow/c22d3f18_nohash_0, -2450, -1979
+OFF ,wow/c518d1b1_nohash_0, -2248, -2466
+OFF ,wow/c518d1b1_nohash_1, -2633, -3370
+DOWN ,wow/c7124b73_nohash_0, -2285, -2615
+DOWN ,wow/caf9fceb_nohash_0, -2342, -2233
+NO ,wow/cc592808_nohash_0, -2163, -2764
+LEFT NO ,wow/cc592808_nohash_1, -3060, -2608
+DOWN ,wow/cc592808_nohash_2, -3012, -2385
+LEFT NO ,wow/cc592808_nohash_3, -2939, -2605
+NO OFF ,wow/cd85758f_nohash_0, -1925, -1959
+GO ,wow/d0faf7e4_nohash_0, -2772, -2778
+UP ,wow/d103dd6e_nohash_0, -3023, -3171
+DOWN ,wow/d1a4fb3f_nohash_0, -3203, -2221
+LEFT GO ,wow/d1a4fb3f_nohash_1, -1897, -2347
+LEFT NO ,wow/d5ca80c6_nohash_0, -1647, -2293
+NO ,wow/d7467392_nohash_0, -2712, -3129
+DOWN ,wow/d91a159e_nohash_0, -2263, -3268
+DOWN ,wow/daf230ac_nohash_0, -2178, -1494
+NO ,wow/dc75148d_nohash_0, -2184, -1424
+OFF ,wow/e1469561_nohash_0, -2433, -2482
+NO ,wow/e41a903b_nohash_0, -2051, -2156
+DOWN ,wow/ef2a3cfb_nohash_0, -2797, -2352
+OFF ,wow/ef2a3cfb_nohash_1, -2780, -2808
+DOWN ,wow/f264e0df_nohash_0, -2551, -2918
+NO ,wow/f292725f_nohash_0, -2680, -2602
